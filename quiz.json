@@ -1,0 +1,731 @@
+{
+  "titre": "Le Grand Quiz",
+  "joueurs": [
+    {
+      "theme": "TOP 14 Rugby"
+    },
+    {
+      "theme": "Parcs d'attractions"
+    },
+    {
+      "theme": "L'Attaque des Titans"
+    },
+    {
+      "theme": "Musique de film"
+    }
+  ],
+  "themesGeneraux": [
+    "Jeux Olympiques",
+    "Jeux vidéo",
+    "Cuisine",
+    "Science",
+    "Culture générale"
+  ],
+  "manche1": [
+    {
+      "theme": "TOP 14 Rugby",
+      "question": "Comment s'appelle le trophée remis au champion de France de rugby ?",
+      "reponse": "Le Bouclier de Brennus"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quelle est la capitale de l'Australie ?",
+      "reponse": "Canberra"
+    },
+    {
+      "theme": "Jeux Olympiques",
+      "question": "Quels deux athlètes ont allumé la vasque lors de la cérémonie d'ouverture de Paris 2024 ?",
+      "reponse": "Marie-José Pérec et Teddy Riner"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Qui a peint La Joconde ?",
+      "reponse": "Léonard de Vinci"
+    },
+    {
+      "theme": "Parcs d'attractions",
+      "question": "Dans quel pays se trouve Europa-Park ?",
+      "reponse": "En Allemagne, à Rust, près de la frontière alsacienne"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "En quelle année a eu lieu la prise de la Bastille ?",
+      "reponse": "1789"
+    },
+    {
+      "theme": "Jeux vidéo",
+      "question": "Quel créateur japonais a imaginé Mario et Zelda ?",
+      "reponse": "Shigeru Miyamoto"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel est le plus long fleuve de France ?",
+      "reponse": "La Loire"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "En quelle année le mur de Berlin est-il tombé ?",
+      "reponse": "1989"
+    },
+    {
+      "theme": "L'Attaque des Titans",
+      "question": "Comment s'appelle le district où ont grandi Eren, Mikasa et Armin ?",
+      "reponse": "Shiganshina"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Combien de pays composent l'Union européenne ?",
+      "reponse": "27"
+    },
+    {
+      "theme": "Cuisine",
+      "question": "Quel est l'ingrédient principal du guacamole ?",
+      "reponse": "L'avocat"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Qui a écrit Les Misérables ?",
+      "reponse": "Victor Hugo"
+    },
+    {
+      "theme": "Musique de film",
+      "question": "Qui a composé la musique de Star Wars ?",
+      "reponse": "John Williams"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel est le plus grand océan du monde ?",
+      "reponse": "L'océan Pacifique"
+    },
+    {
+      "theme": "Science",
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "reponse": "Jupiter"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "reponse": "Au Pérou"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel peintre néerlandais s'est tranché une partie de l'oreille ?",
+      "reponse": "Vincent van Gogh"
+    },
+    {
+      "theme": "TOP 14 Rugby",
+      "question": "Quel club détient le record de titres de champion de France ?",
+      "reponse": "Le Stade Toulousain"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quelle est la langue la plus parlée au Brésil ?",
+      "reponse": "Le portugais"
+    },
+    {
+      "theme": "Jeux Olympiques",
+      "question": "Quelle ville accueillera les Jeux olympiques d'été de 2028 ?",
+      "reponse": "Los Angeles"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Qui a été le premier homme à marcher sur la Lune ?",
+      "reponse": "Neil Armstrong, en 1969"
+    },
+    {
+      "theme": "Parcs d'attractions",
+      "question": "En quelle année Disneyland Paris, alors appelé Euro Disney, a-t-il ouvert ?",
+      "reponse": "1992"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quelle est la monnaie du Japon ?",
+      "reponse": "Le yen"
+    },
+    {
+      "theme": "Jeux vidéo",
+      "question": "Quel éditeur français est à l'origine de la saga Assassin's Creed ?",
+      "reponse": "Ubisoft"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel est le plus haut sommet des Alpes ?",
+      "reponse": "Le mont Blanc"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel est le pays le plus peuplé du monde ?",
+      "reponse": "L'Inde, qui a dépassé la Chine en 2023"
+    },
+    {
+      "theme": "L'Attaque des Titans",
+      "question": "Comment s'appelle l'ami d'enfance d'Eren, qui deviendra commandant du Bataillon d'exploration ?",
+      "reponse": "Armin Arlert"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Qui a écrit Le Petit Prince ?",
+      "reponse": "Antoine de Saint-Exupéry"
+    },
+    {
+      "theme": "Cuisine",
+      "question": "De quelle ville la bouillabaisse est-elle la spécialité ?",
+      "reponse": "Marseille"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel pays a remporté la Coupe du monde de football 2018 ?",
+      "reponse": "La France"
+    },
+    {
+      "theme": "Musique de film",
+      "question": "Quel compositeur a signé les musiques d'Inception et d'Interstellar ?",
+      "reponse": "Hans Zimmer"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quelle est la capitale du Canada ?",
+      "reponse": "Ottawa"
+    },
+    {
+      "theme": "Science",
+      "question": "Quel scientifique a formulé la théorie de la relativité ?",
+      "reponse": "Albert Einstein"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel est le plus grand animal du monde ?",
+      "reponse": "La baleine bleue"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+      "reponse": "La tour Eiffel"
+    }
+  ],
+  "manche2": [
+    {
+      "theme": "TOP 14 Rugby",
+      "affirmations": [
+        "Un drop réussi rapporte 2 points",
+        "Un essai vaut 5 points",
+        "Le Top 14 compte 16 clubs"
+      ],
+      "vraie": "B",
+      "explication": "Un drop vaut 3 points et le championnat compte 14 clubs, d'où son nom."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "La Grande Muraille de Chine est visible à l'œil nu depuis la Lune",
+        "Le mont Everest culmine à plus de 8 800 m",
+        "Le Sahara est le plus grand désert du monde"
+      ],
+      "vraie": "B",
+      "explication": "La Muraille est invisible depuis la Lune. Le plus grand désert est l'Antarctique ; le Sahara est le plus grand désert chaud."
+    },
+    {
+      "theme": "Jeux Olympiques",
+      "affirmations": [
+        "Paris a accueilli les JO d'été deux fois",
+        "La flamme olympique est allumée à Rome",
+        "Les premiers JO modernes ont eu lieu à Athènes en 1896"
+      ],
+      "vraie": "C",
+      "explication": "Paris les a accueillis trois fois (1900, 1924, 2024). La flamme est allumée à Olympie, en Grèce."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "Napoléon était particulièrement petit pour son époque",
+        "Les Vikings portaient des casques à cornes",
+        "Cléopâtre a vécu plus près de nous que de la construction de la pyramide de Khéops"
+      ],
+      "vraie": "C",
+      "explication": "Napoléon mesurait environ 1,69 m, dans la moyenne. Les casques à cornes sont une invention du XIXe siècle."
+    },
+    {
+      "theme": "Parcs d'attractions",
+      "affirmations": [
+        "Le premier Disneyland a ouvert en Floride",
+        "Le Parc Astérix a ouvert en 1989",
+        "Walt Disney a assisté à l'ouverture de Walt Disney World"
+      ],
+      "vraie": "B",
+      "explication": "Le premier Disneyland a ouvert en Californie en 1955. Walt Disney est mort en 1966, cinq ans avant l'ouverture de Walt Disney World."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "Une pieuvre a trois cœurs",
+        "Les chauves-souris sont aveugles",
+        "Les poissons rouges ont une mémoire de trois secondes"
+      ],
+      "vraie": "A",
+      "explication": "Les chauves-souris voient, en plus de l'écholocation, et les poissons rouges retiennent des informations pendant des mois."
+    },
+    {
+      "theme": "Jeux vidéo",
+      "affirmations": [
+        "Tetris a été créé par un chercheur soviétique, Alexeï Pajitnov",
+        "Pac-Man est sorti en 1995",
+        "Minecraft a été créé par Nintendo"
+      ],
+      "vraie": "A",
+      "explication": "Pac-Man est sorti en 1980. Minecraft vient de Markus « Notch » Persson et du studio suédois Mojang."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "Le français est langue officielle dans une trentaine de pays",
+        "L'anglais est la langue maternelle la plus répandue au monde",
+        "Le mot sandwich vient d'un plat italien"
+      ],
+      "vraie": "A",
+      "explication": "La langue maternelle la plus répandue est le chinois mandarin. Sandwich vient du comte de Sandwich, un Anglais."
+    },
+    {
+      "theme": "L'Attaque des Titans",
+      "affirmations": [
+        "Le manga a été créé par Hajime Isayama",
+        "Mikasa est la sœur biologique d'Eren",
+        "L'emblème du Bataillon d'exploration est une rose"
+      ],
+      "vraie": "A",
+      "explication": "Mikasa a été recueillie par la famille d'Eren. L'emblème du Bataillon, ce sont les ailes de la liberté ; les roses sont celles de la Garnison."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "La statue de la Liberté a été offerte par la France aux États-Unis",
+        "Big Ben est le nom de la tour de l'horloge à Londres",
+        "La tour de Pise a été construite penchée volontairement"
+      ],
+      "vraie": "A",
+      "explication": "Big Ben est le nom de la cloche, la tour s'appelle Elizabeth Tower. La tour de Pise penche à cause d'un sol instable."
+    },
+    {
+      "theme": "Cuisine",
+      "affirmations": [
+        "La tomate est originaire d'Italie",
+        "Le croissant s'inspire d'une viennoiserie autrichienne, le kipferl",
+        "Le camembert est originaire de Bretagne"
+      ],
+      "vraie": "B",
+      "explication": "La tomate vient d'Amérique et le camembert de Normandie."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "La foudre ne tombe jamais deux fois au même endroit",
+        "Au sens botanique, la banane est une baie",
+        "L'eau pure conduit très bien l'électricité"
+      ],
+      "vraie": "B",
+      "explication": "La foudre frappe souvent les mêmes points hauts. Ce sont les sels dissous qui rendent l'eau conductrice ; l'eau pure conduit très mal."
+    },
+    {
+      "theme": "Musique de film",
+      "affirmations": [
+        "Hans Zimmer a composé la musique de Titanic",
+        "Ennio Morricone a composé la musique du Bon, la Brute et le Truand",
+        "Hans Zimmer a composé la musique de Jurassic Park"
+      ],
+      "vraie": "B",
+      "explication": "Titanic, c'est James Horner, et Jurassic Park, John Williams."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "Le Monopoly a été inventé en France",
+        "Les échecs sont nés en Inde",
+        "Le Rubik's Cube a été inventé au Japon"
+      ],
+      "vraie": "B",
+      "explication": "Le Monopoly est américain et le Rubik's Cube hongrois, inventé par Ernő Rubik."
+    },
+    {
+      "theme": "Science",
+      "affirmations": [
+        "Le diamant est composé de silicium",
+        "Un adulte a 306 os",
+        "La lumière du Soleil met environ 8 minutes à nous parvenir"
+      ],
+      "vraie": "C",
+      "explication": "Le diamant est du carbone pur, et un adulte a 206 os."
+    },
+    {
+      "theme": "Culture générale",
+      "affirmations": [
+        "Pablo Picasso était espagnol",
+        "Molière est mort sur scène en pleine représentation",
+        "Le Titanic a coulé lors de son troisième voyage"
+      ],
+      "vraie": "A",
+      "explication": "Molière a eu un malaise sur scène mais est mort quelques heures plus tard chez lui. Le Titanic a coulé lors de son premier voyage."
+    }
+  ],
+  "manche3": [
+    {
+      "theme": "TOP 14 Rugby",
+      "question": "Combien de joueurs compte une équipe de rugby à XV sur le terrain ?",
+      "reponses": [
+        "13",
+        "15",
+        "11",
+        "Aucune idée, tout le monde s'en balecouilles"
+      ],
+      "bonne": "B"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Combien de temps a duré la guerre de Cent Ans ?",
+      "reponses": [
+        "100 ans",
+        "116 ans",
+        "99 ans",
+        "Cent ans pile, sinon ils auraient changé le nom"
+      ],
+      "bonne": "B"
+    },
+    {
+      "theme": "L'Attaque des Titans",
+      "question": "Quel aliment Sasha Braus a-t-elle volé et dévoré en pleine cérémonie d'enrôlement ?",
+      "reponses": [
+        "Une patate",
+        "Un morceau de pain",
+        "Un poisson séché",
+        "Une salade de phalanges"
+      ],
+      "bonne": "A"
+    },
+    {
+      "theme": "Jeux vidéo",
+      "question": "Dans Donkey Kong (1981), quel était le métier de Mario ?",
+      "reponses": [
+        "Plombier",
+        "Charpentier",
+        "Électricien",
+        "Strip-teaseuse"
+      ],
+      "bonne": "B"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "De quelle couleur est la boîte noire d'un avion ?",
+      "reponses": [
+        "Noire",
+        "Orange",
+        "Grise",
+        "Blanche, bien évidemment"
+      ],
+      "bonne": "B"
+    },
+    {
+      "theme": "Musique de film",
+      "question": "Dans Rencontres du troisième type, comment les humains communiquent-ils avec les extraterrestres ?",
+      "reponses": [
+        "Avec une suite de cinq notes",
+        "En morse",
+        "En langue des signes",
+        "Avec des extra-vagins"
+      ],
+      "bonne": "A"
+    },
+    {
+      "theme": "Parcs d'attractions",
+      "question": "Pourquoi les loopings modernes ont-ils une forme de goutte plutôt que de cercle parfait ?",
+      "reponses": [
+        "Pour économiser de l'acier",
+        "Pour réduire la force subie par les passagers",
+        "Pour que les photos souvenirs soient plus jolies",
+        "Pour faire parler les cons"
+      ],
+      "bonne": "B"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Quel pays compte le plus de fuseaux horaires ?",
+      "reponses": [
+        "La Russie",
+        "Les États-Unis",
+        "La France",
+        "Le Wokistan"
+      ],
+      "bonne": "C",
+      "explication": "Grâce à ses territoires d'outre-mer, la France en compte 12."
+    },
+    {
+      "theme": "Jeux Olympiques",
+      "question": "Quelle discipline a fait son entrée aux Jeux olympiques à Paris en 2024 ?",
+      "reponses": [
+        "Le cricket",
+        "Le breaking",
+        "Le padel",
+        "Le lancer de chaussons"
+      ],
+      "bonne": "B"
+    },
+    {
+      "theme": "Cuisine",
+      "question": "D'où vient le nom de la sauce béchamel ?",
+      "reponses": [
+        "D'un maître d'hôtel de Louis XIV",
+        "D'une ville italienne",
+        "D'un mot arabe qui veut dire « lait »",
+        "De l'inventeur de la béchamaux"
+      ],
+      "bonne": "A",
+      "explication": "Louis de Béchameil, maître d'hôtel de Louis XIV."
+    },
+    {
+      "theme": "Science",
+      "question": "Quel animal a des yeux plus gros que son cerveau ?",
+      "reponses": [
+        "Le hibou",
+        "Le pigeon",
+        "L'autruche",
+        "Le truc dans la mer Méditerranée, là"
+      ],
+      "bonne": "C"
+    },
+    {
+      "theme": "Culture générale",
+      "question": "Qu'est-ce qu'un nycthémère ?",
+      "reponses": [
+        "Un insecte qui ne sort que la nuit",
+        "Une durée de 24 heures, un jour et une nuit",
+        "Une maladie du sommeil",
+        "Le cri du hibou quand il se prend une vitre"
+      ],
+      "bonne": "B"
+    }
+  ],
+  "manche4": [
+    {
+      "theme": "TOP 14 Rugby",
+      "questions": [
+        {
+          "question": "Quelles sont les couleurs du Stade Toulousain ?",
+          "reponse": "Rouge et noir"
+        },
+        {
+          "question": "Quel club joue au stade Marcel-Michelin ?",
+          "reponse": "L'ASM Clermont Auvergne"
+        },
+        {
+          "question": "Quel club a remporté son premier Bouclier de Brennus en 2022 ?",
+          "reponse": "Montpellier (MHR), vainqueur de Castres en finale"
+        },
+        {
+          "question": "Combien de finales du championnat Clermont a-t-il perdues avant de remporter enfin son premier titre en 2010 ?",
+          "reponse": "10 finales perdues (« une dizaine » compte comme bonne réponse)"
+        },
+        {
+          "question": "En quelle année a eu lieu la toute première finale du championnat de France de rugby ? À 10 ans près.",
+          "reponse": "1892 : Racing Club de France contre Stade Français, arbitrée par Pierre de Coubertin. Bonne réponse entre 1882 et 1902."
+        }
+      ]
+    },
+    {
+      "theme": "Parcs d'attractions",
+      "questions": [
+        {
+          "question": "Près de quelle ville se trouve le Futuroscope ?",
+          "reponse": "Poitiers"
+        },
+        {
+          "question": "Quel parc est célèbre pour son spectacle nocturne, la Cinéscénie ?",
+          "reponse": "Le Puy du Fou"
+        },
+        {
+          "question": "Dans quel pays se trouve le parc Efteling ?",
+          "reponse": "Aux Pays-Bas"
+        },
+        {
+          "question": "Comment s'appelle le grand huit en bois emblématique du Parc Astérix ?",
+          "reponse": "Tonnerre de Zeus (rebaptisé Tonnerre 2 Zeus en 2022)"
+        },
+        {
+          "question": "Quel grand huit, dans un parc d'Abu Dhabi, atteint 240 km/h ?",
+          "reponse": "Formula Rossa, à Ferrari World (« Ferrari World » compte comme bonne réponse)"
+        }
+      ]
+    },
+    {
+      "theme": "L'Attaque des Titans",
+      "questions": [
+        {
+          "question": "Quel personnage est surnommé « le soldat le plus fort de l'humanité » ?",
+          "reponse": "Livaï (Levi) Ackerman"
+        },
+        {
+          "question": "Qui est le Titan cuirassé ?",
+          "reponse": "Reiner Braun"
+        },
+        {
+          "question": "Citez les trois murs, de l'extérieur vers l'intérieur.",
+          "reponse": "Maria, Rose, Sina"
+        },
+        {
+          "question": "Combien existe-t-il de Titans primordiaux ?",
+          "reponse": "Neuf"
+        },
+        {
+          "question": "Combien d'années vit un détenteur de Titan après avoir hérité de son pouvoir ?",
+          "reponse": "13 ans : c'est la malédiction d'Ymir"
+        }
+      ]
+    },
+    {
+      "theme": "Musique de film",
+      "questions": [
+        {
+          "question": "De quel film vient le célèbre thème à deux notes composé par John Williams ?",
+          "reponse": "Les Dents de la mer"
+        },
+        {
+          "question": "Qui a composé la musique du Seigneur des anneaux ?",
+          "reponse": "Howard Shore"
+        },
+        {
+          "question": "Quel compositeur français a signé la musique du Fabuleux Destin d'Amélie Poulain ?",
+          "reponse": "Yann Tiersen"
+        },
+        {
+          "question": "Quelle compositrice a remporté l'Oscar pour la musique de Joker (2019) ?",
+          "reponse": "Hildur Guðnadóttir"
+        },
+        {
+          "question": "Quel compositeur français a remporté l'Oscar pour la musique de Lawrence d'Arabie ?",
+          "reponse": "Maurice Jarre"
+        }
+      ]
+    },
+    {
+      "theme": "Jeux Olympiques",
+      "questions": [
+        {
+          "question": "Quel nageur français a remporté quatre titres individuels à Paris 2024 ?",
+          "reponse": "Léon Marchand"
+        },
+        {
+          "question": "Quel athlète détient le record du monde du 100 m en 9 s 58 ?",
+          "reponse": "Usain Bolt"
+        },
+        {
+          "question": "Dans quelle ville se sont tenus les premiers Jeux d'hiver en 1924 ?",
+          "reponse": "Chamonix"
+        },
+        {
+          "question": "Combien de médailles d'or olympiques Michael Phelps a-t-il remportées ? À 2 près.",
+          "reponse": "23 (bonne réponse de 21 à 25)"
+        },
+        {
+          "question": "Entre 1912 et 1948, les JO ont décerné des médailles dans un domaine qui n'avait rien de sportif. Lequel ?",
+          "reponse": "L'art : peinture, sculpture, architecture, littérature et musique"
+        }
+      ]
+    },
+    {
+      "theme": "Jeux vidéo",
+      "questions": [
+        {
+          "question": "Comment s'appelle le héros de The Legend of Zelda ?",
+          "reponse": "Link"
+        },
+        {
+          "question": "Dans quelle saga incarne-t-on Kratos ?",
+          "reponse": "God of War"
+        },
+        {
+          "question": "Quel jeu de FromSoftware a été élu jeu de l'année aux Game Awards 2022 ?",
+          "reponse": "Elden Ring"
+        },
+        {
+          "question": "En quelle année la première PlayStation est-elle sortie au Japon ?",
+          "reponse": "1994"
+        },
+        {
+          "question": "Quel jeu de 1958, joué sur un oscilloscope, est souvent cité comme l'un des tout premiers jeux vidéo ?",
+          "reponse": "Tennis for Two, de William Higinbotham"
+        }
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "questions": [
+        {
+          "question": "Quelle épice est la plus chère au monde ?",
+          "reponse": "Le safran"
+        },
+        {
+          "question": "Avec quels ingrédients de base prépare-t-on une mayonnaise ?",
+          "reponse": "Jaune d'œuf et huile (avec moutarde, sel, vinaigre ou citron)"
+        },
+        {
+          "question": "Comment s'appelle la réaction chimique qui fait brunir la viande quand on la saisit ?",
+          "reponse": "La réaction de Maillard"
+        },
+        {
+          "question": "Citez les cinq sauces mères de la cuisine française.",
+          "reponse": "Béchamel, velouté, espagnole, hollandaise et sauce tomate"
+        },
+        {
+          "question": "Quel chef a été le premier à détenir trois restaurants trois étoiles en même temps ?",
+          "reponse": "Alain Ducasse"
+        }
+      ]
+    },
+    {
+      "theme": "Science",
+      "questions": [
+        {
+          "question": "Quel est le symbole chimique de l'or ?",
+          "reponse": "Au"
+        },
+        {
+          "question": "Combien de chromosomes possède une cellule humaine ?",
+          "reponse": "46, soit 23 paires"
+        },
+        {
+          "question": "Quelle scientifique a reçu deux prix Nobel dans deux sciences différentes ?",
+          "reponse": "Marie Curie (physique en 1903, chimie en 1911)"
+        },
+        {
+          "question": "Quelle particule a été découverte au CERN en 2012 ?",
+          "reponse": "Le boson de Higgs"
+        },
+        {
+          "question": "Combien de temps met environ la lumière de la Lune pour nous parvenir ?",
+          "reponse": "Environ 1,3 seconde (bonne réponse entre 1 et 2 secondes)"
+        }
+      ]
+    },
+    {
+      "theme": "Culture générale",
+      "questions": [
+        {
+          "question": "Quel est le plus grand pays du monde par sa superficie ?",
+          "reponse": "La Russie"
+        },
+        {
+          "question": "Qui a écrit Roméo et Juliette ?",
+          "reponse": "William Shakespeare"
+        },
+        {
+          "question": "En quelle année Christophe Colomb a-t-il atteint l'Amérique ?",
+          "reponse": "1492"
+        },
+        {
+          "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+          "reponse": "Wellington"
+        },
+        {
+          "question": "Quel roi de France était surnommé le Roi-Soleil, et combien de temps a duré son règne ?",
+          "reponse": "Louis XIV, 72 ans (1643 à 1715), le plus long règne de l'histoire de France. Bonne réponse à 5 ans près pour la durée."
+        }
+      ]
+    }
+  ]
+}
