@@ -1,0 +1,3334 @@
+{
+  "titre": "Le Grand Quiz",
+  "themes": [
+    {
+      "nom": "Football",
+      "manche1": [
+        {
+          "question": "Quel pays a remporté la Coupe du monde 2022 au Qatar ?",
+          "reponse": "L'Argentine"
+        },
+        {
+          "question": "Combien de joueurs une équipe aligne-t-elle sur le terrain au coup d'envoi ?",
+          "reponse": "Onze"
+        },
+        {
+          "question": "Quel joueur français a remporté le Ballon d'or en 1998 ?",
+          "reponse": "Zinédine Zidane"
+        },
+        {
+          "question": "Dans quel stade joue le Paris Saint-Germain ?",
+          "reponse": "Le Parc des Princes"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "La France a remporté la Coupe du monde en 1998 et en 2018",
+            "Un match de football dure 80 minutes hors arrêts de jeu",
+            "Un carton orange existe en Ligue 1"
+          ],
+          "vraie": "A",
+          "explication": "Un match dure 90 minutes, et il n'existe que des cartons jaunes et rouges."
+        },
+        {
+          "affirmations": [
+            "Pelé a remporté trois Coupes du monde",
+            "La première Coupe du monde a eu lieu en France",
+            "Cristiano Ronaldo est brésilien"
+          ],
+          "vraie": "A",
+          "explication": "La première Coupe du monde a eu lieu en Uruguay en 1930, et Cristiano Ronaldo est portugais."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel club a remporté la première édition de la Ligue des champions sous ce nom, en 1993 ?",
+          "reponses": [
+            "L'Olympique de Marseille",
+            "L'AC Milan",
+            "Manchester United",
+            "Le FC Barcelone"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Combien de fois l'équipe de France a-t-elle remporté le championnat d'Europe (Euro) ?",
+          "reponses": [
+            "Deux",
+            "Une",
+            "Trois",
+            "Quatre"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel est le surnom de l'équipe de France de football ?",
+          "reponse": "Les Bleus"
+        },
+        {
+          "question": "Quel club anglais est surnommé les Red Devils ?",
+          "reponse": "Manchester United"
+        },
+        {
+          "question": "Quel pays a organisé la Coupe du monde 2014 ?",
+          "reponse": "Le Brésil"
+        },
+        {
+          "question": "Quel club italien est surnommé la Vieille Dame ?",
+          "reponse": "La Juventus de Turin"
+        },
+        {
+          "question": "Quel attaquant français a marqué 13 buts lors de la seule Coupe du monde 1958, un record ?",
+          "reponse": "Just Fontaine"
+        }
+      ]
+    },
+    {
+      "nom": "Tennis",
+      "manche1": [
+        {
+          "question": "Sur quelle surface se joue Roland-Garros ?",
+          "reponse": "La terre battue"
+        },
+        {
+          "question": "Combien de tournois composent le Grand Chelem ?",
+          "reponse": "Quatre"
+        },
+        {
+          "question": "Quel joueur espagnol a remporté Roland-Garros 14 fois ?",
+          "reponse": "Rafael Nadal"
+        },
+        {
+          "question": "Comment appelle-t-on le score de 40 partout ?",
+          "reponse": "Égalité"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Wimbledon se joue sur gazon",
+            "L'Open d'Australie se joue sur gazon",
+            "Un set se gagne en 4 jeux"
+          ],
+          "vraie": "A",
+          "explication": "L'Open d'Australie se joue sur surface dure, et un set se gagne en 6 jeux (avec deux jeux d'écart ou un tie-break)."
+        },
+        {
+          "affirmations": [
+            "Serena Williams a remporté 23 titres du Grand Chelem en simple",
+            "Björn Borg a remporté l'US Open",
+            "Le tie-break a été inventé au XIXe siècle"
+          ],
+          "vraie": "A",
+          "explication": "Borg a perdu quatre finales de l'US Open sans jamais le gagner, et le tie-break date des années 1960."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel joueur détient le record de titres du Grand Chelem en simple messieurs ?",
+          "reponses": [
+            "Novak Djokovic",
+            "Roger Federer",
+            "Rafael Nadal",
+            "Pete Sampras"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Comment s'appelle la grande compétition masculine de tennis entre équipes nationales ?",
+          "reponses": [
+            "La Coupe Davis",
+            "La Laver Cup",
+            "La Hopman Cup",
+            "La Fed Cup"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Dans quelle ville se joue l'US Open ?",
+          "reponse": "New York"
+        },
+        {
+          "question": "Quel joueur suisse a remporté 8 fois Wimbledon ?",
+          "reponse": "Roger Federer"
+        },
+        {
+          "question": "Quel est le dernier Français à avoir remporté un tournoi du Grand Chelem en simple messieurs ?",
+          "reponse": "Yannick Noah, à Roland-Garros en 1983"
+        },
+        {
+          "question": "Comment s'appelle le court central de Roland-Garros ?",
+          "reponse": "Le court Philippe-Chatrier"
+        },
+        {
+          "question": "Quelle Française a remporté Wimbledon en 2013 ?",
+          "reponse": "Marion Bartoli"
+        }
+      ]
+    },
+    {
+      "nom": "Jeux Olympiques",
+      "manche1": [
+        {
+          "question": "Combien d'anneaux figurent sur le drapeau olympique ?",
+          "reponse": "Cinq"
+        },
+        {
+          "question": "Combien de fois Paris a-t-il accueilli les Jeux olympiques d'été ?",
+          "reponse": "Trois fois (1900, 1924 et 2024)"
+        },
+        {
+          "question": "Tous les combien d'années ont lieu les Jeux olympiques d'été ?",
+          "reponse": "Tous les quatre ans"
+        },
+        {
+          "question": "Complétez la devise olympique : « Citius, Altius… » ?",
+          "reponse": "Fortius"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Les premiers JO modernes ont eu lieu à Athènes en 1896",
+            "La flamme olympique est allumée à Rome",
+            "La France n'a jamais accueilli les Jeux d'hiver"
+          ],
+          "vraie": "A",
+          "explication": "La flamme est allumée à Olympie, en Grèce, et la France a accueilli les Jeux d'hiver à trois reprises."
+        },
+        {
+          "affirmations": [
+            "Le breaking a fait son entrée aux JO en 2024",
+            "Le golf n'a jamais été un sport olympique",
+            "Les médailles d'or sont en or massif"
+          ],
+          "vraie": "A",
+          "explication": "Le golf est olympique depuis 2016, et les médailles d'or sont en argent recouvert d'or."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Qui a allumé la vasque olympique lors de la cérémonie d'ouverture de Paris 2024 ?",
+          "reponses": [
+            "Marie-José Pérec et Teddy Riner",
+            "Kylian Mbappé et Tony Parker",
+            "Amélie Mauresmo et Tony Estanguet",
+            "Thierry Henry et Laure Manaudou"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quelle ville accueillera les Jeux olympiques d'été 2028 ?",
+          "reponses": [
+            "Los Angeles",
+            "Brisbane",
+            "Rome",
+            "Madrid"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel athlète jamaïcain a remporté le 100 m olympique en 2008, 2012 et 2016 ?",
+          "reponse": "Usain Bolt"
+        },
+        {
+          "question": "Quel nageur français a remporté quatre titres individuels à Paris 2024 ?",
+          "reponse": "Léon Marchand"
+        },
+        {
+          "question": "Dans quelle ville française ont eu lieu les premiers Jeux d'hiver, en 1924 ?",
+          "reponse": "Chamonix"
+        },
+        {
+          "question": "Combien de médailles d'or olympiques le nageur Michael Phelps a-t-il remportées ? À 2 près.",
+          "reponse": "23 (bonne réponse de 21 à 25)"
+        },
+        {
+          "question": "Entre 1912 et 1948, les JO ont décerné des médailles dans un domaine qui n'avait rien de sportif. Lequel ?",
+          "reponse": "L'art : peinture, sculpture, architecture, littérature et musique"
+        }
+      ]
+    },
+    {
+      "nom": "Formule 1",
+      "manche1": [
+        {
+          "question": "Quel pilote britannique a remporté sept titres de champion du monde ?",
+          "reponse": "Lewis Hamilton"
+        },
+        {
+          "question": "Quelle écurie italienne a pour emblème un cheval cabré ?",
+          "reponse": "Ferrari"
+        },
+        {
+          "question": "Comment appelle-t-on la première place sur la grille de départ ?",
+          "reponse": "La pole position"
+        },
+        {
+          "question": "Quel drapeau signale la fin de la course ?",
+          "reponse": "Le drapeau à damier"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Michael Schumacher a remporté sept titres mondiaux",
+            "Le Grand Prix de Monaco se court sur un circuit permanent",
+            "Une Formule 1 a quatre roues motrices"
+          ],
+          "vraie": "A",
+          "explication": "Monaco est un circuit urbain tracé dans les rues, et une F1 n'a que deux roues motrices, à l'arrière."
+        },
+        {
+          "affirmations": [
+            "Le premier championnat du monde de F1 date de 1950",
+            "Ayrton Senna était argentin",
+            "Une course de F1 dure au minimum trois heures"
+          ],
+          "vraie": "A",
+          "explication": "Senna était brésilien, et une course est limitée à deux heures hors interruptions."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel pilote néerlandais a été champion du monde de 2021 à 2024 ?",
+          "reponses": [
+            "Max Verstappen",
+            "Oscar Piastri",
+            "Lando Norris",
+            "Sergio Pérez"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Que signifie un drapeau jaune agité ?",
+          "reponses": [
+            "Danger, il faut ralentir et ne pas dépasser",
+            "La course est terminée",
+            "La piste est glissante",
+            "Une voiture lente doit rentrer au stand"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Dans quel pays se trouve le circuit de Spa-Francorchamps ?",
+          "reponse": "En Belgique"
+        },
+        {
+          "question": "Quel pilote monégasque a remporté le Grand Prix de Monaco en 2024 ?",
+          "reponse": "Charles Leclerc"
+        },
+        {
+          "question": "Quel pilote français a été quatre fois champion du monde, entre 1985 et 1993 ?",
+          "reponse": "Alain Prost"
+        },
+        {
+          "question": "Jusqu'en 2025, comment s'appelait le dispositif qui ouvrait l'aileron arrière pour faciliter les dépassements ?",
+          "reponse": "Le DRS"
+        },
+        {
+          "question": "Sur quel circuit Ayrton Senna a-t-il trouvé la mort en 1994 ?",
+          "reponse": "Imola (Grand Prix de Saint-Marin)"
+        }
+      ]
+    },
+    {
+      "nom": "Jeux vidéo",
+      "manche1": [
+        {
+          "question": "Comment s'appelle le héros de The Legend of Zelda ?",
+          "reponse": "Link"
+        },
+        {
+          "question": "Dans quel jeu construit-on et survit-on dans un monde fait de cubes ?",
+          "reponse": "Minecraft"
+        },
+        {
+          "question": "Quelle entreprise japonaise a créé la console Switch ?",
+          "reponse": "Nintendo"
+        },
+        {
+          "question": "Comment s'appelle le frère de Mario ?",
+          "reponse": "Luigi"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Tetris a été créé en URSS",
+            "Pac-Man est sorti en 1995",
+            "Sonic est la mascotte de Capcom"
+          ],
+          "vraie": "A",
+          "explication": "Pac-Man est sorti en 1980, et Sonic est la mascotte de Sega."
+        },
+        {
+          "affirmations": [
+            "Kratos est le héros de God of War",
+            "Lara Croft est l'héroïne de Resident Evil",
+            "La PlayStation 2 est sortie en 2010"
+          ],
+          "vraie": "A",
+          "explication": "Lara Croft est l'héroïne de Tomb Raider, et la PlayStation 2 est sortie en 2000."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel éditeur français a créé la saga Assassin's Creed ?",
+          "reponses": [
+            "Ubisoft",
+            "Quantic Dream",
+            "Ankama",
+            "Focus Entertainment"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Dans quelle saga incarne-t-on le Master Chief ?",
+          "reponses": [
+            "Halo",
+            "Doom",
+            "Gears of War",
+            "Destiny"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel jeu de Riot Games oppose deux équipes de cinq champions ?",
+          "reponse": "League of Legends"
+        },
+        {
+          "question": "Dans quelle saga de jeux de combat s'affrontent Ryu et Ken ?",
+          "reponse": "Street Fighter"
+        },
+        {
+          "question": "Dans quel jeu de FromSoftware explore-t-on l'Entre-terre ?",
+          "reponse": "Elden Ring"
+        },
+        {
+          "question": "En quelle année la première PlayStation est-elle sortie au Japon ?",
+          "reponse": "1994"
+        },
+        {
+          "question": "Quel jeu de 1958, joué sur un oscilloscope, est considéré comme l'un des tout premiers jeux vidéo ?",
+          "reponse": "Tennis for Two"
+        }
+      ]
+    },
+    {
+      "nom": "Pokémon",
+      "manche1": [
+        {
+          "question": "Quel Pokémon jaune est la mascotte de la franchise ?",
+          "reponse": "Pikachu"
+        },
+        {
+          "question": "Comment s'appelle le jeune dresseur héros du dessin animé ?",
+          "reponse": "Sacha"
+        },
+        {
+          "question": "Quel objet sert à capturer les Pokémon ?",
+          "reponse": "La Poké Ball"
+        },
+        {
+          "question": "En quel Pokémon Salamèche évolue-t-il au niveau 16 ?",
+          "reponse": "Reptincel"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Bulbizarre est de type Plante et Poison",
+            "Rondoudou est de type Feu",
+            "Évoli ne possède qu'une seule évolution"
+          ],
+          "vraie": "A",
+          "explication": "Rondoudou est de type Normal et Fée, et Évoli possède huit évolutions."
+        },
+        {
+          "affirmations": [
+            "Les premiers jeux Pokémon sont sortis en 1996 au Japon",
+            "Rattata est un Pokémon légendaire",
+            "Mew est le numéro 1 du Pokédex"
+          ],
+          "vraie": "A",
+          "explication": "Rattata est un Pokémon très commun, et le numéro 1 du Pokédex est Bulbizarre."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel type est super efficace contre le type Eau ?",
+          "reponses": [
+            "Plante",
+            "Feu",
+            "Roche",
+            "Sol"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel Pokémon légendaire porte le numéro 150 du Pokédex ?",
+          "reponses": [
+            "Mewtwo",
+            "Artikodin",
+            "Lugia",
+            "Ho-Oh"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "De quel type est Salamèche ?",
+          "reponse": "Feu"
+        },
+        {
+          "question": "Comment s'appelle l'équipe de malfaiteurs dont font partie Jessie et James ?",
+          "reponse": "La Team Rocket"
+        },
+        {
+          "question": "Dans quelle ville commence l'aventure de Pokémon Rouge et Bleu ?",
+          "reponse": "Bourg Palette"
+        },
+        {
+          "question": "Qui est le créateur de Pokémon ?",
+          "reponse": "Satoshi Tajiri"
+        },
+        {
+          "question": "Comment s'appelle le professeur qui accueille le joueur dans Pokémon Or et Argent ?",
+          "reponse": "Le professeur Orme"
+        }
+      ]
+    },
+    {
+      "nom": "Mangas et animés",
+      "manche1": [
+        {
+          "question": "Quel pirate au chapeau de paille rêve de devenir le roi des pirates ?",
+          "reponse": "Monkey D. Luffy"
+        },
+        {
+          "question": "Quel jeune ninja blond rêve de devenir Hokage ?",
+          "reponse": "Naruto Uzumaki"
+        },
+        {
+          "question": "Comment s'appelle le héros de Dragon Ball ?",
+          "reponse": "Son Goku"
+        },
+        {
+          "question": "Quel studio japonais a produit Le Voyage de Chihiro ?",
+          "reponse": "Le studio Ghibli"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Death Note met en scène un cahier qui tue",
+            "One Piece a été créé par Masashi Kishimoto",
+            "Les mangas se lisent de gauche à droite"
+          ],
+          "vraie": "A",
+          "explication": "One Piece est l'œuvre d'Eiichirō Oda (Kishimoto a créé Naruto), et les mangas se lisent de droite à gauche."
+        },
+        {
+          "affirmations": [
+            "Hayao Miyazaki a réalisé Mon voisin Totoro",
+            "Candy est un anime des années 2010",
+            "Saint Seiya s'appelle en France Les Chevaliers de la Table ronde"
+          ],
+          "vraie": "A",
+          "explication": "Candy date de 1976, et Saint Seiya s'appelle en France Les Chevaliers du Zodiaque."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Dans quel manga des sorciers affrontent-ils des fléaux grâce à l'énergie occulte ?",
+          "reponses": [
+            "Jujutsu Kaisen",
+            "Bleach",
+            "Demon Slayer",
+            "Black Clover"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Dans Demon Slayer, comment s'appelle la sœur de Tanjirō, transformée en démon ?",
+          "reponses": [
+            "Nezuko",
+            "Mitsuri",
+            "Shinobu",
+            "Kanao"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Comment s'appelle le robot géant piloté par Actarus ?",
+          "reponse": "Goldorak"
+        },
+        {
+          "question": "Quel manga suit Izuku Midoriya dans une école de super-héros ?",
+          "reponse": "My Hero Academia"
+        },
+        {
+          "question": "Qui est l'auteur de Dragon Ball ?",
+          "reponse": "Akira Toriyama"
+        },
+        {
+          "question": "Dans quel anime suit-on les frères Elric, Edward et Alphonse ?",
+          "reponse": "Fullmetal Alchemist"
+        },
+        {
+          "question": "Dans Death Note, quel est le nom complet du détective L ?",
+          "reponse": "L Lawliet"
+        }
+      ]
+    },
+    {
+      "nom": "Disney et Pixar",
+      "manche1": [
+        {
+          "question": "Quel est le premier long métrage d'animation de Disney, sorti en 1937 ?",
+          "reponse": "Blanche-Neige et les Sept Nains"
+        },
+        {
+          "question": "Comment s'appelle le cow-boy de Toy Story ?",
+          "reponse": "Woody"
+        },
+        {
+          "question": "Dans Le Roi lion, comment s'appelle le père de Simba ?",
+          "reponse": "Mufasa"
+        },
+        {
+          "question": "Comment s'appelle le poisson-clown qui part à la recherche de son fils Nemo ?",
+          "reponse": "Marin"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Walt Disney est mort avant l'ouverture de Walt Disney World",
+            "Pixar a été fondé par Walt Disney",
+            "La Reine des neiges est sorti en 2003"
+          ],
+          "vraie": "A",
+          "explication": "Pixar est né chez Lucasfilm avant d'être racheté par Steve Jobs en 1986, et La Reine des neiges est sorti en 2013."
+        },
+        {
+          "affirmations": [
+            "Walt Disney voulait d'abord appeler Mickey « Mortimer »",
+            "Dingo et Pluto sont le même personnage",
+            "Le premier long métrage de Pixar est Monstres et Cie"
+          ],
+          "vraie": "A",
+          "explication": "Dingo et Pluto sont deux personnages différents, et le premier long métrage de Pixar est Toy Story, en 1995."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Dans Aladdin, comment s'appelle le singe d'Aladdin ?",
+          "reponses": [
+            "Abu",
+            "Rajah",
+            "Iago",
+            "Pascal"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Dans quel film Pixar un rat rêve-t-il de devenir cuisinier à Paris ?",
+          "reponses": [
+            "Ratatouille",
+            "Luca",
+            "Coco",
+            "Soul"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Comment s'appelle la fée de Peter Pan ?",
+          "reponse": "La fée Clochette"
+        },
+        {
+          "question": "Dans quel film Pixar un vieil homme fait-il s'envoler sa maison avec des ballons ?",
+          "reponse": "Là-haut"
+        },
+        {
+          "question": "Dans quel pays se déroule le film Coco ?",
+          "reponse": "Au Mexique"
+        },
+        {
+          "question": "Comment s'appelle le petit robot de Pixar qui nettoie une Terre abandonnée ?",
+          "reponse": "WALL-E"
+        },
+        {
+          "question": "Quel est le titre du court métrage sonore de 1928 qui a rendu Mickey célèbre ?",
+          "reponse": "Steamboat Willie"
+        }
+      ]
+    },
+    {
+      "nom": "Harry Potter",
+      "manche1": [
+        {
+          "question": "Dans quelle maison de Poudlard Harry est-il envoyé ?",
+          "reponse": "Gryffondor"
+        },
+        {
+          "question": "Comment s'appelle la chouette de Harry ?",
+          "reponse": "Hedwige"
+        },
+        {
+          "question": "Qui est l'auteure de la saga ?",
+          "reponse": "J. K. Rowling"
+        },
+        {
+          "question": "Quel sport de sorciers se joue sur des balais ?",
+          "reponse": "Le Quidditch"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le Choixpeau répartit les élèves dans les maisons",
+            "Ron Weasley est à Serpentard",
+            "Dumbledore dirige l'école de Durmstrang"
+          ],
+          "vraie": "A",
+          "explication": "Ron est dans la même maison que Harry, et Dumbledore dirige Poudlard."
+        },
+        {
+          "affirmations": [
+            "Le Patronus de Harry est un cerf",
+            "Voldemort s'appelle en réalité Gellert Grindelwald",
+            "Le Poudlard Express part de la voie 7 ¾"
+          ],
+          "vraie": "A",
+          "explication": "Voldemort s'appelle en réalité Tom Jedusor, et le train part de la voie 9 ¾."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quelle est la formule du sortilège de désarmement ?",
+          "reponses": [
+            "Expelliarmus",
+            "Avada Kedavra",
+            "Wingardium Leviosa",
+            "Lumos"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Comment s'appelle l'elfe de maison libéré grâce à Harry ?",
+          "reponses": [
+            "Dobby",
+            "Kreattur",
+            "Winky",
+            "Hokey"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Comment s'appelle le demi-géant garde-chasse de Poudlard ?",
+          "reponse": "Hagrid"
+        },
+        {
+          "question": "Quel est le prénom du parrain de Harry ?",
+          "reponse": "Sirius"
+        },
+        {
+          "question": "Quelle banque des sorciers est tenue par des gobelins ?",
+          "reponse": "Gringotts"
+        },
+        {
+          "question": "Combien d'Horcruxes Voldemort a-t-il créés volontairement ?",
+          "reponse": "Six (Harry en est un septième, créé sans le vouloir)"
+        },
+        {
+          "question": "Quel est le nom de jeune fille de la mère de Harry ?",
+          "reponse": "Evans (Lily Evans)"
+        }
+      ]
+    },
+    {
+      "nom": "Star Wars",
+      "manche1": [
+        {
+          "question": "Quel est le vrai nom de Dark Vador ?",
+          "reponse": "Anakin Skywalker"
+        },
+        {
+          "question": "Comment s'appelle le vaisseau de Han Solo ?",
+          "reponse": "Le Faucon Millenium"
+        },
+        {
+          "question": "Quelle arme les Jedi utilisent-ils ?",
+          "reponse": "Le sabre laser"
+        },
+        {
+          "question": "Quel petit maître Jedi à la peau verte forme Luke ?",
+          "reponse": "Yoda"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le premier film Star Wars est sorti en 1977",
+            "Chewbacca est un Ewok",
+            "Leia est la cousine de Luke"
+          ],
+          "vraie": "A",
+          "explication": "Chewbacca est un Wookiee, et Leia est la sœur jumelle de Luke."
+        },
+        {
+          "affirmations": [
+            "George Lucas a créé Star Wars",
+            "R2-D2 parle couramment le français",
+            "L'Étoile de la mort est une planète naturelle"
+          ],
+          "vraie": "A",
+          "explication": "R2-D2 s'exprime en bips, et l'Étoile de la mort est une station spatiale."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Sur quelle planète désertique Luke a-t-il grandi ?",
+          "reponses": [
+            "Tatooine",
+            "Dagobah",
+            "Naboo",
+            "Endor"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel est le vrai nom du Mandalorien, héros de la série The Mandalorian ?",
+          "reponses": [
+            "Din Djarin",
+            "Boba Fett",
+            "Cad Bane",
+            "Jango Fett"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel droïde doré maîtrise plus de six millions de formes de communication ?",
+          "reponse": "C-3PO"
+        },
+        {
+          "question": "Qui a composé la musique de la saga ?",
+          "reponse": "John Williams"
+        },
+        {
+          "question": "Comment s'appelle la planète glacée du début de L'Empire contre-attaque ?",
+          "reponse": "Hoth"
+        },
+        {
+          "question": "Quel acteur incarne Han Solo dans la trilogie originale ?",
+          "reponse": "Harrison Ford"
+        },
+        {
+          "question": "Comment s'appelle l'ordre qui déclenche l'extermination des Jedi dans La Revanche des Sith ?",
+          "reponse": "L'ordre 66"
+        }
+      ]
+    },
+    {
+      "nom": "Marvel",
+      "manche1": [
+        {
+          "question": "Quel est le vrai nom d'Iron Man ?",
+          "reponse": "Tony Stark"
+        },
+        {
+          "question": "Quel dieu nordique manie le marteau Mjöllnir ?",
+          "reponse": "Thor"
+        },
+        {
+          "question": "Quel super-héros a été piqué par une araignée radioactive ?",
+          "reponse": "Spider-Man"
+        },
+        {
+          "question": "Quel super-vilain cherche à réunir les six Pierres d'infinité ?",
+          "reponse": "Thanos"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Stan Lee a cocréé de nombreux héros Marvel",
+            "Batman est un héros Marvel",
+            "Hulk se transforme quand il a froid"
+          ],
+          "vraie": "A",
+          "explication": "Batman appartient à DC Comics, et Hulk se transforme sous l'effet de la colère."
+        },
+        {
+          "affirmations": [
+            "Le Wakanda est le pays de Black Panther",
+            "Captain America vient du Canada",
+            "Black Widow est un robot"
+          ],
+          "vraie": "A",
+          "explication": "Captain America est né à New York, et Black Widow est une espionne humaine, Natasha Romanoff."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel est le vrai nom de Captain America ?",
+          "reponses": [
+            "Steve Rogers",
+            "Bruce Banner",
+            "Peter Parker",
+            "Clint Barton"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel film sorti en 2008 a lancé l'univers cinématographique Marvel ?",
+          "reponses": [
+            "Iron Man",
+            "Thor",
+            "Captain America : First Avenger",
+            "Les Gardiens de la Galaxie"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Comment s'appelle l'équipe de super-héros réunie par Nick Fury ?",
+          "reponse": "Les Avengers"
+        },
+        {
+          "question": "Quel dieu de la malice est le frère adoptif du dieu du tonnerre ?",
+          "reponse": "Loki"
+        },
+        {
+          "question": "Quel acteur incarne Iron Man au cinéma ?",
+          "reponse": "Robert Downey Jr."
+        },
+        {
+          "question": "Quel métal presque indestructible recouvre le squelette de Wolverine ?",
+          "reponse": "L'adamantium"
+        },
+        {
+          "question": "Quelle Pierre d'infinité est cachée dans l'Œil d'Agamotto de Doctor Strange ?",
+          "reponse": "La Pierre du Temps"
+        }
+      ]
+    },
+    {
+      "nom": "Séries TV",
+      "manche1": [
+        {
+          "question": "Dans quelle série suit-on Walter White, professeur de chimie devenu fabricant de drogue ?",
+          "reponse": "Breaking Bad"
+        },
+        {
+          "question": "Quelle série adaptée de romans se déroule sur le continent de Westeros ?",
+          "reponse": "Game of Thrones"
+        },
+        {
+          "question": "Dans quelle série des enfants de Hawkins affrontent-ils le Monde à l'envers ?",
+          "reponse": "Stranger Things"
+        },
+        {
+          "question": "Dans quelle série espagnole des braqueurs portent-ils des masques de Dalí ?",
+          "reponse": "La casa de papel"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Friends compte dix saisons",
+            "Les Simpson ont débuté en 2005",
+            "The Office est d'origine espagnole"
+          ],
+          "vraie": "A",
+          "explication": "Les Simpson ont débuté en 1989, et The Office est d'origine britannique."
+        },
+        {
+          "affirmations": [
+            "Squid Game est une série sud-coréenne",
+            "Dark est une série américaine",
+            "Kaamelott se déroule au XXe siècle"
+          ],
+          "vraie": "A",
+          "explication": "Dark est une série allemande, et Kaamelott se déroule à l'époque du roi Arthur."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Dans quelle ville se déroule la série Friends ?",
+          "reponses": [
+            "New York",
+            "Chicago",
+            "Los Angeles",
+            "Boston"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Sur quelle plateforme la série House of Cards a-t-elle été diffusée ?",
+          "reponses": [
+            "Netflix",
+            "HBO",
+            "Amazon Prime Video",
+            "Disney+"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel détective de la BBC habite au 221B Baker Street ?",
+          "reponse": "Sherlock"
+        },
+        {
+          "question": "Dans quelle série suit-on le gang des Shelby à Birmingham ?",
+          "reponse": "Peaky Blinders"
+        },
+        {
+          "question": "Qui a créé Kaamelott et y joue le roi Arthur ?",
+          "reponse": "Alexandre Astier"
+        },
+        {
+          "question": "Quelle série britannique, lancée en 1963, suit un voyageur temporel à bord d'une cabine de police bleue ?",
+          "reponse": "Doctor Who"
+        },
+        {
+          "question": "Quel réalisateur a créé Twin Peaks avec Mark Frost ?",
+          "reponse": "David Lynch"
+        }
+      ]
+    },
+    {
+      "nom": "Cinéma français",
+      "manche1": [
+        {
+          "question": "Qui joue Obélix dans Astérix et Obélix : Mission Cléopâtre ?",
+          "reponse": "Gérard Depardieu"
+        },
+        {
+          "question": "Quel film de 2011 réunit Omar Sy et François Cluzet ?",
+          "reponse": "Intouchables"
+        },
+        {
+          "question": "Quelle actrice incarne Amélie Poulain ?",
+          "reponse": "Audrey Tautou"
+        },
+        {
+          "question": "Quel film de Dany Boon se déroule à Bergues, dans le Nord ?",
+          "reponse": "Bienvenue chez les Ch'tis"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Les frères Lumière ont organisé l'une des premières projections publiques en 1895",
+            "Le Festival de Cannes a lieu en hiver",
+            "La Palme d'or ne récompense que des courts métrages"
+          ],
+          "vraie": "A",
+          "explication": "Le festival a lieu en mai, et la Palme d'or récompense avant tout le meilleur long métrage de la compétition."
+        },
+        {
+          "affirmations": [
+            "Jean Dujardin a reçu l'Oscar du meilleur acteur pour The Artist",
+            "Les Visiteurs se déroule entièrement dans le futur",
+            "OSS 117 se déroule dans les années 2020"
+          ],
+          "vraie": "A",
+          "explication": "Les Visiteurs fait voyager des chevaliers du Moyen Âge jusqu'aux années 1990, et OSS 117 se déroule dans les années 1950 et 1960."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel réalisateur a signé Le Fabuleux Destin d'Amélie Poulain ?",
+          "reponses": [
+            "Jean-Pierre Jeunet",
+            "François Ozon",
+            "Jacques Audiard",
+            "Mathieu Kassovitz"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Comment s'appellent les récompenses du cinéma français, qui portent le nom d'un sculpteur ?",
+          "reponses": [
+            "Les César",
+            "Les Lumières",
+            "Les Molières",
+            "Les Victoires"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Qui a réalisé Le Grand Bleu et Léon ?",
+          "reponse": "Luc Besson"
+        },
+        {
+          "question": "Quel film de Mathieu Kassovitz, sorti en 1995, se déroule en banlieue ?",
+          "reponse": "La Haine"
+        },
+        {
+          "question": "Quel acteur joue le chevalier Godefroy de Montmirail dans Les Visiteurs ?",
+          "reponse": "Jean Reno"
+        },
+        {
+          "question": "Quel film de Jacques Audiard a remporté la Palme d'or en 2015 ?",
+          "reponse": "Dheepan"
+        },
+        {
+          "question": "Quel est le titre du premier film projeté par les frères Lumière en 1895 ?",
+          "reponse": "La Sortie de l'usine Lumière"
+        }
+      ]
+    },
+    {
+      "nom": "Bande dessinée",
+      "manche1": [
+        {
+          "question": "Quel jeune reporter à la houppe voyage avec son chien Milou ?",
+          "reponse": "Tintin"
+        },
+        {
+          "question": "Qui sont les deux créateurs d'Astérix ?",
+          "reponse": "René Goscinny et Albert Uderzo"
+        },
+        {
+          "question": "Quel cow-boy tire plus vite que son ombre ?",
+          "reponse": "Lucky Luke"
+        },
+        {
+          "question": "Comment s'appellent les petits lutins bleus créés par Peyo ?",
+          "reponse": "Les Schtroumpfs"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Gaston Lagaffe travaille aux éditions Dupuis",
+            "Le Chat de Philippe Geluck est un chien",
+            "Spirou est détective privé à l'origine"
+          ],
+          "vraie": "A",
+          "explication": "Le Chat est bien un chat, et Spirou est groom d'hôtel à l'origine."
+        },
+        {
+          "affirmations": [
+            "Le Festival d'Angoulême est consacré à la bande dessinée",
+            "Blake et Mortimer sont français",
+            "Largo Winch est un pirate"
+          ],
+          "vraie": "A",
+          "explication": "Blake et Mortimer sont britanniques, et Largo Winch est un jeune milliardaire."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel chat de bande dessinée adore les lasagnes ?",
+          "reponses": [
+            "Garfield",
+            "Félix",
+            "Tom",
+            "Gros Minet"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Qui a créé Titeuf ?",
+          "reponses": [
+            "Zep",
+            "Riad Sattouf",
+            "Bastien Vivès",
+            "Lewis Trondheim"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Comment s'appelle le petit chien d'Obélix ?",
+          "reponse": "Idéfix"
+        },
+        {
+          "question": "Quel dessinateur a créé Gaston Lagaffe ?",
+          "reponse": "André Franquin"
+        },
+        {
+          "question": "Quelle bande dessinée de Riad Sattouf raconte son enfance entre la France, la Libye et la Syrie ?",
+          "reponse": "L'Arabe du futur"
+        },
+        {
+          "question": "Comment s'appelle l'ennemi juré de Blake et Mortimer ?",
+          "reponse": "Olrik"
+        },
+        {
+          "question": "En quelle année Astérix est-il apparu pour la première fois ? À 5 ans près.",
+          "reponse": "1959 (bonne réponse de 1954 à 1964)"
+        }
+      ]
+    },
+    {
+      "nom": "Chanson française",
+      "manche1": [
+        {
+          "question": "Qui chante « La Vie en rose » ?",
+          "reponse": "Édith Piaf"
+        },
+        {
+          "question": "Quel chanteur, surnommé le Taulier, a chanté « Allumer le feu » ?",
+          "reponse": "Johnny Hallyday"
+        },
+        {
+          "question": "Quel chanteur belge a écrit « Ne me quitte pas » ?",
+          "reponse": "Jacques Brel"
+        },
+        {
+          "question": "Quel chanteur a écrit et interprété « La Bohème » ?",
+          "reponse": "Charles Aznavour"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Barbara a chanté « L'Aigle noir »",
+            "Stromae est suisse",
+            "« Les Champs-Élysées » est chanté par Eddy Mitchell"
+          ],
+          "vraie": "A",
+          "explication": "Stromae est belge, et « Les Champs-Élysées » est une chanson de Joe Dassin."
+        },
+        {
+          "affirmations": [
+            "Céline Dion a représenté la Suisse à l'Eurovision 1988",
+            "Mylène Farmer est née en France",
+            "Francis Cabrel est originaire de Bretagne"
+          ],
+          "vraie": "A",
+          "explication": "Mylène Farmer est née au Canada, et Francis Cabrel vient d'Astaffort, près d'Agen."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Qui chante « Tous les garçons et les filles » ?",
+          "reponses": [
+            "Françoise Hardy",
+            "Sylvie Vartan",
+            "France Gall",
+            "Sheila"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel artiste a sorti l'album « Racine carrée » ?",
+          "reponses": [
+            "Stromae",
+            "Christophe Maé",
+            "Julien Doré",
+            "Vianney"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Qui chante « Alexandrie Alexandra » ?",
+          "reponse": "Claude François"
+        },
+        {
+          "question": "Quel chanteur a interprété « Les Lacs du Connemara » ?",
+          "reponse": "Michel Sardou"
+        },
+        {
+          "question": "Quelle chanteuse a représenté la France à l'Eurovision 2021 avec « Voilà » ?",
+          "reponse": "Barbara Pravi"
+        },
+        {
+          "question": "Qui a écrit et chanté « Le Poinçonneur des Lilas » ?",
+          "reponse": "Serge Gainsbourg"
+        },
+        {
+          "question": "Quel écrivain et musicien a écrit la chanson « Le Déserteur » ?",
+          "reponse": "Boris Vian"
+        }
+      ]
+    },
+    {
+      "nom": "Rap français",
+      "manche1": [
+        {
+          "question": "Quel rappeur marseillais a sorti « Tchikita » ?",
+          "reponse": "Jul"
+        },
+        {
+          "question": "Quel groupe marseillais a sorti l'album « L'École du micro d'argent » ?",
+          "reponse": "IAM"
+        },
+        {
+          "question": "Quel rappeur est surnommé le Duc de Boulogne ?",
+          "reponse": "Booba"
+        },
+        {
+          "question": "Quel rappeur belge a sorti l'album « Ipséité » ?",
+          "reponse": "Damso"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Kery James a fait partie du groupe Ideal J",
+            "Diam's est originaire de Marseille",
+            "PNL est un duo de sœurs"
+          ],
+          "vraie": "A",
+          "explication": "Diam's a grandi dans l'Essonne, et PNL est un duo de frères."
+        },
+        {
+          "affirmations": [
+            "Aya Nakamura est née au Mali",
+            "Soprano est lyonnais",
+            "Ninho est un rappeur belge"
+          ],
+          "vraie": "A",
+          "explication": "Soprano est marseillais, et Ninho est français."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel rappeur a sorti l'album « Civilisation » en 2021 ?",
+          "reponses": [
+            "Orelsan",
+            "Nekfeu",
+            "SCH",
+            "Vald"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel groupe a sorti « Paris sous les bombes » ?",
+          "reponses": [
+            "Suprême NTM",
+            "IAM",
+            "Assassin",
+            "Les Sages Poètes de la rue"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Qui chante « Bella » ?",
+          "reponse": "Gims"
+        },
+        {
+          "question": "Quel rappeur a sorti les albums « Feu » et « Cyborg » ?",
+          "reponse": "Nekfeu"
+        },
+        {
+          "question": "Quel groupe de Vitry-sur-Seine a sorti « Tonton du bled » ?",
+          "reponse": "113"
+        },
+        {
+          "question": "Quel rappeur a sorti l'album « Prose combat » en 1994 ?",
+          "reponse": "MC Solaar"
+        },
+        {
+          "question": "Quel est le vrai nom de Soprano ?",
+          "reponse": "Saïd M'Roumbaba"
+        }
+      ]
+    },
+    {
+      "nom": "Années 80-90",
+      "manche1": [
+        {
+          "question": "Quel casse-tête cubique aux faces colorées est devenu un phénomène au début des années 80 ?",
+          "reponse": "Le Rubik's Cube"
+        },
+        {
+          "question": "Quelle console portable à écran monochrome est sortie en 1989 ?",
+          "reponse": "La Game Boy"
+        },
+        {
+          "question": "Quel mur est tombé en novembre 1989 ?",
+          "reponse": "Le mur de Berlin"
+        },
+        {
+          "question": "Quelle chanteuse a sorti « Like a Virgin » en 1984 ?",
+          "reponse": "Madonna"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le Minitel a été déployé en France au début des années 80",
+            "Le CD est apparu dans les années 60",
+            "Le Tamagotchi est sorti en 1985"
+          ],
+          "vraie": "A",
+          "explication": "Le CD a été commercialisé en 1982, et le Tamagotchi est sorti en 1996."
+        },
+        {
+          "affirmations": [
+            "Michael Jackson a sorti l'album « Thriller » en 1982",
+            "Le Top 50 n'a jamais été diffusé à la télévision",
+            "Le tunnel sous la Manche a ouvert en 1985"
+          ],
+          "vraie": "A",
+          "explication": "Le Top 50 était diffusé sur Canal+, et le tunnel sous la Manche a ouvert en 1994."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel groupe britannique a chanté « Wannabe » en 1996 ?",
+          "reponses": [
+            "Les Spice Girls",
+            "All Saints",
+            "Bananarama",
+            "Les Destiny's Child"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel film de 1997 réunit Leonardo DiCaprio et Kate Winslet ?",
+          "reponses": [
+            "Titanic",
+            "Roméo + Juliette",
+            "La Plage",
+            "Arrête-moi si tu peux"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel film de 1985 envoie Marty McFly dans le passé ?",
+          "reponse": "Retour vers le futur"
+        },
+        {
+          "question": "Quelle série culte suivait des sauveteurs sur une plage de Californie ?",
+          "reponse": "Alerte à Malibu"
+        },
+        {
+          "question": "Dans la série K2000, quel héros conduit KITT, la voiture qui parle ?",
+          "reponse": "Michael Knight"
+        },
+        {
+          "question": "En quelle année est sorti le premier Macintosh ?",
+          "reponse": "1984"
+        },
+        {
+          "question": "Quelle chanteuse a interprété « Voyage, voyage » en 1986 ?",
+          "reponse": "Desireless"
+        }
+      ]
+    },
+    {
+      "nom": "Cuisine",
+      "manche1": [
+        {
+          "question": "Quel est l'ingrédient principal du guacamole ?",
+          "reponse": "L'avocat"
+        },
+        {
+          "question": "De quelle ville la bouillabaisse est-elle la spécialité ?",
+          "reponse": "Marseille"
+        },
+        {
+          "question": "Quel fromage est indispensable à la tartiflette ?",
+          "reponse": "Le reblochon"
+        },
+        {
+          "question": "Quelle épice donne sa couleur jaune à la paella ?",
+          "reponse": "Le safran"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le croissant s'inspire d'une viennoiserie autrichienne",
+            "La tomate est originaire d'Italie",
+            "Le camembert vient de Bretagne"
+          ],
+          "vraie": "A",
+          "explication": "La tomate vient d'Amérique, et le camembert de Normandie."
+        },
+        {
+          "affirmations": [
+            "Les sushis sont une spécialité japonaise",
+            "Le chili con carne vient de Chine",
+            "La pizza margherita est d'origine grecque"
+          ],
+          "vraie": "A",
+          "explication": "Le chili con carne vient de la cuisine tex-mex, et la pizza margherita est née à Naples."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "En cuisine, qu'est-ce qu'une julienne ?",
+          "reponses": [
+            "Des légumes taillés en fins bâtonnets",
+            "Une sauce au vin blanc",
+            "Un gâteau breton",
+            "Une soupe froide"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Comment s'appelle la réaction qui fait brunir la viande quand on la saisit ?",
+          "reponses": [
+            "La réaction de Maillard",
+            "La fermentation",
+            "La caramélisation lactique",
+            "L'émulsion"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Avec quel fruit prépare-t-on une tarte Tatin ?",
+          "reponse": "La pomme"
+        },
+        {
+          "question": "De quel pays le tiramisu est-il originaire ?",
+          "reponse": "L'Italie"
+        },
+        {
+          "question": "Citez trois des cinq sauces mères de la cuisine française.",
+          "reponse": "Béchamel, velouté, espagnole, hollandaise et sauce tomate"
+        },
+        {
+          "question": "Quel chef lyonnais a donné son nom à un concours international de cuisine ?",
+          "reponse": "Paul Bocuse (le Bocuse d'Or)"
+        },
+        {
+          "question": "Quel gâteau en forme de roue a été créé en l'honneur d'une course cycliste ?",
+          "reponse": "Le Paris-Brest"
+        }
+      ]
+    },
+    {
+      "nom": "Animaux",
+      "manche1": [
+        {
+          "question": "Quel est le plus grand animal du monde ?",
+          "reponse": "La baleine bleue"
+        },
+        {
+          "question": "Combien de pattes a une araignée ?",
+          "reponse": "Huit"
+        },
+        {
+          "question": "Quel est l'animal terrestre le plus rapide ?",
+          "reponse": "Le guépard"
+        },
+        {
+          "question": "Comment appelle-t-on le petit de la vache ?",
+          "reponse": "Le veau"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Une pieuvre a trois cœurs",
+            "Les chauves-souris sont aveugles",
+            "Les poissons rouges ont une mémoire de trois secondes"
+          ],
+          "vraie": "A",
+          "explication": "Les chauves-souris voient, en plus d'utiliser l'écholocation, et les poissons rouges retiennent des informations pendant des mois."
+        },
+        {
+          "affirmations": [
+            "Le koala dort jusqu'à 20 heures par jour",
+            "Le taureau s'énerve à cause de la couleur rouge",
+            "Le dauphin est un poisson"
+          ],
+          "vraie": "A",
+          "explication": "Le taureau réagit au mouvement de la cape, pas à sa couleur, et le dauphin est un mammifère."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel animal a les yeux plus gros que son cerveau ?",
+          "reponses": [
+            "L'autruche",
+            "Le hibou",
+            "Le pigeon",
+            "Le caméléon"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Combien de temps dure environ la gestation d'une éléphante ?",
+          "reponses": [
+            "22 mois",
+            "9 mois",
+            "12 mois",
+            "36 mois"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel oiseau blanc est le symbole de la paix ?",
+          "reponse": "La colombe"
+        },
+        {
+          "question": "Comment s'appelle la femelle du cerf ?",
+          "reponse": "La biche"
+        },
+        {
+          "question": "Quel mammifère australien à bec de canard pond des œufs ?",
+          "reponse": "L'ornithorynque"
+        },
+        {
+          "question": "Quel animal africain doit son nom grec à l'expression « cheval du fleuve » ?",
+          "reponse": "L'hippopotame"
+        },
+        {
+          "question": "Quel est l'animal terrestre le plus lourd après les éléphants ?",
+          "reponse": "Le rhinocéros blanc"
+        }
+      ]
+    },
+    {
+      "nom": "Dinosaures",
+      "manche1": [
+        {
+          "question": "Quel grand carnivore à petits bras vivait en Amérique du Nord à la fin du Crétacé ?",
+          "reponse": "Le tyrannosaure"
+        },
+        {
+          "question": "Quel dinosaure herbivore portait trois cornes sur la tête ?",
+          "reponse": "Le tricératops"
+        },
+        {
+          "question": "Quelle saga de films met en scène un parc peuplé de dinosaures recréés ?",
+          "reponse": "Jurassic Park"
+        },
+        {
+          "question": "Il y a combien de millions d'années les dinosaures non aviens ont-ils disparu ?",
+          "reponse": "Environ 66 millions d'années"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Les oiseaux descendent des dinosaures",
+            "Les humains ont côtoyé les dinosaures",
+            "Le ptérodactyle est un dinosaure"
+          ],
+          "vraie": "A",
+          "explication": "Plus de 60 millions d'années séparent les derniers dinosaures des premiers humains, et les ptérosaures sont des reptiles volants distincts des dinosaures."
+        },
+        {
+          "affirmations": [
+            "Le stégosaure avait des plaques sur le dos",
+            "Le brachiosaure était carnivore",
+            "Tous les dinosaures étaient gigantesques"
+          ],
+          "vraie": "A",
+          "explication": "Le brachiosaure était herbivore, et certains dinosaures n'étaient pas plus grands qu'une poule."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Comment s'appelle le scientifique qui étudie les fossiles ?",
+          "reponses": [
+            "Un paléontologue",
+            "Un archéologue",
+            "Un géologue",
+            "Un anthropologue"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Dans quel pays se trouve le cratère de l'astéroïde lié à l'extinction des dinosaures ?",
+          "reponses": [
+            "Au Mexique",
+            "En Russie",
+            "En Australie",
+            "Au Maroc"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel dinosaure géant au très long cou et à la queue en fouet est l'un des plus connus ?",
+          "reponse": "Le diplodocus"
+        },
+        {
+          "question": "Quel petit dinosaure carnivore à griffe recourbée doit son nom au « voleur rapide » ?",
+          "reponse": "Le vélociraptor"
+        },
+        {
+          "question": "À quelle ère géologique, aussi appelée ère secondaire, ont vécu les dinosaures ?",
+          "reponse": "Le Mésozoïque"
+        },
+        {
+          "question": "Comment s'appelle le cratère d'impact lié à l'extinction des dinosaures ?",
+          "reponse": "Chicxulub"
+        },
+        {
+          "question": "Quel grand dinosaure à voile dorsale, amateur de poissons, vivait en Afrique du Nord ?",
+          "reponse": "Le spinosaure"
+        }
+      ]
+    },
+    {
+      "nom": "Science",
+      "manche1": [
+        {
+          "question": "Quelle est la formule chimique de l'eau ?",
+          "reponse": "H2O"
+        },
+        {
+          "question": "Quel physicien a formulé la théorie de la relativité ?",
+          "reponse": "Albert Einstein"
+        },
+        {
+          "question": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
+          "reponse": "Le dioxyde de carbone (CO2)"
+        },
+        {
+          "question": "À quelle température l'eau bout-elle au niveau de la mer ?",
+          "reponse": "100 °C"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le diamant est composé de carbone",
+            "L'eau pure conduit très bien l'électricité",
+            "La foudre ne tombe jamais deux fois au même endroit"
+          ],
+          "vraie": "A",
+          "explication": "Ce sont les sels dissous qui rendent l'eau conductrice, et la foudre frappe souvent les mêmes points élevés."
+        },
+        {
+          "affirmations": [
+            "Au sens botanique, la banane est une baie",
+            "Le son voyage plus vite que la lumière",
+            "Le verre est un métal"
+          ],
+          "vraie": "A",
+          "explication": "La lumière est près d'un million de fois plus rapide que le son, et le verre n'est pas un métal."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel est le symbole chimique de l'or ?",
+          "reponses": [
+            "Au",
+            "Or",
+            "Ag",
+            "Go"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quelle scientifique a reçu deux prix Nobel dans deux sciences différentes ?",
+          "reponses": [
+            "Marie Curie",
+            "Rosalind Franklin",
+            "Lise Meitner",
+            "Dorothy Hodgkin"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel savant anglais a, dit-on, eu l'idée de la gravitation en voyant tomber une pomme ?",
+          "reponse": "Isaac Newton"
+        },
+        {
+          "question": "Quel élément chimique a pour symbole Fe ?",
+          "reponse": "Le fer"
+        },
+        {
+          "question": "Quel est le seul métal liquide à température ambiante ?",
+          "reponse": "Le mercure"
+        },
+        {
+          "question": "Quelle particule a été découverte au CERN en 2012 ?",
+          "reponse": "Le boson de Higgs"
+        },
+        {
+          "question": "Quel chimiste russe a établi le tableau périodique des éléments en 1869 ?",
+          "reponse": "Dmitri Mendeleïev"
+        }
+      ]
+    },
+    {
+      "nom": "Espace",
+      "manche1": [
+        {
+          "question": "Quelle est la plus grande planète du Système solaire ?",
+          "reponse": "Jupiter"
+        },
+        {
+          "question": "Quelle planète est surnommée la planète rouge ?",
+          "reponse": "Mars"
+        },
+        {
+          "question": "Qui a été le premier homme à marcher sur la Lune ?",
+          "reponse": "Neil Armstrong"
+        },
+        {
+          "question": "Comment s'appelle notre galaxie ?",
+          "reponse": "La Voie lactée"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "La lumière du Soleil met environ 8 minutes à nous parvenir",
+            "Le Soleil tourne autour de la Terre",
+            "Pluton est toujours classée parmi les planètes"
+          ],
+          "vraie": "A",
+          "explication": "C'est la Terre qui tourne autour du Soleil, et Pluton est une planète naine depuis 2006."
+        },
+        {
+          "affirmations": [
+            "Vénus est la planète la plus chaude du Système solaire",
+            "Le Soleil est une planète",
+            "Il fait toujours nuit sur la face cachée de la Lune"
+          ],
+          "vraie": "A",
+          "explication": "Le Soleil est une étoile, et la face cachée de la Lune reçoit autant de lumière que l'autre."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel astronaute français a séjourné dans la Station spatiale internationale en 2016-2017 puis en 2021 ?",
+          "reponses": [
+            "Thomas Pesquet",
+            "Jean-Loup Chrétien",
+            "Philippe Perrin",
+            "Léopold Eyharts"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Combien de planètes compte le Système solaire ?",
+          "reponses": [
+            "Huit",
+            "Neuf",
+            "Sept",
+            "Dix"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quelle planète est entourée des anneaux les plus visibles ?",
+          "reponse": "Saturne"
+        },
+        {
+          "question": "Comment s'appelait le premier satellite artificiel, lancé en 1957 ?",
+          "reponse": "Spoutnik 1"
+        },
+        {
+          "question": "Quel télescope spatial a été lancé en décembre 2021 ?",
+          "reponse": "Le télescope James Webb"
+        },
+        {
+          "question": "Quelle est l'étoile la plus proche de nous après le Soleil ?",
+          "reponse": "Proxima du Centaure"
+        },
+        {
+          "question": "Quelle sonde lancée en 1977 est l'objet humain le plus éloigné de la Terre ?",
+          "reponse": "Voyager 1"
+        }
+      ]
+    },
+    {
+      "nom": "Corps humain",
+      "manche1": [
+        {
+          "question": "Combien d'os compte le squelette d'un adulte ?",
+          "reponse": "206"
+        },
+        {
+          "question": "Quel organe pompe le sang dans tout le corps ?",
+          "reponse": "Le cœur"
+        },
+        {
+          "question": "Quel est le plus grand organe du corps humain ?",
+          "reponse": "La peau"
+        },
+        {
+          "question": "Combien de dents compte un adulte, dents de sagesse comprises ?",
+          "reponse": "32"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le fémur est l'os le plus long du corps",
+            "On n'utilise que 10 % de son cerveau",
+            "Les ongles continuent de pousser après la mort"
+          ],
+          "vraie": "A",
+          "explication": "Toutes les zones du cerveau servent, et après la mort c'est la peau qui se rétracte, donnant l'illusion que les ongles poussent."
+        },
+        {
+          "affirmations": [
+            "Les globules rouges transportent l'oxygène",
+            "Le corps humain compte trois poumons",
+            "Les cheveux sont vivants sur toute leur longueur"
+          ],
+          "vraie": "A",
+          "explication": "Nous avons deux poumons, et la partie visible du cheveu est faite de cellules mortes."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel est le plus petit os du corps humain ?",
+          "reponses": [
+            "L'étrier, dans l'oreille",
+            "Le marteau, dans l'oreille",
+            "La phalange du petit orteil",
+            "Le coccyx"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Combien de chromosomes compte une cellule humaine ?",
+          "reponses": [
+            "46",
+            "23",
+            "48",
+            "64"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quels organes filtrent le sang pour produire l'urine ?",
+          "reponse": "Les reins"
+        },
+        {
+          "question": "Quel muscle, situé sous les poumons, permet de respirer ?",
+          "reponse": "Le diaphragme"
+        },
+        {
+          "question": "Quel groupe sanguin est appelé donneur universel ?",
+          "reponse": "O négatif"
+        },
+        {
+          "question": "Quelle glande en forme de papillon se trouve à l'avant du cou ?",
+          "reponse": "La thyroïde"
+        },
+        {
+          "question": "Quel est le nerf le plus long du corps humain ?",
+          "reponse": "Le nerf sciatique"
+        }
+      ]
+    },
+    {
+      "nom": "Géographie",
+      "manche1": [
+        {
+          "question": "Quelle est la capitale de l'Australie ?",
+          "reponse": "Canberra"
+        },
+        {
+          "question": "Quel est le plus long fleuve de France ?",
+          "reponse": "La Loire"
+        },
+        {
+          "question": "Quel est le plus grand océan du monde ?",
+          "reponse": "L'océan Pacifique"
+        },
+        {
+          "question": "Dans quel pays se trouve le Kilimandjaro ?",
+          "reponse": "En Tanzanie"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "La Russie est le plus grand pays du monde",
+            "Le Sahara est le plus grand désert du monde",
+            "L'Everest se trouve en Inde"
+          ],
+          "vraie": "A",
+          "explication": "Le plus grand désert est l'Antarctique (le Sahara est le plus grand désert chaud), et l'Everest est à la frontière entre le Népal et la Chine."
+        },
+        {
+          "affirmations": [
+            "Le Canada compte plus de lacs que tout autre pays",
+            "La capitale du Maroc est Casablanca",
+            "L'Islande fait partie de l'Union européenne"
+          ],
+          "vraie": "A",
+          "explication": "La capitale du Maroc est Rabat, et l'Islande n'est pas membre de l'Union européenne."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quelle est la capitale du Canada ?",
+          "reponses": [
+            "Ottawa",
+            "Toronto",
+            "Montréal",
+            "Vancouver"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel pays compte le plus de fuseaux horaires, grâce à ses territoires d'outre-mer ?",
+          "reponses": [
+            "La France",
+            "La Russie",
+            "Les États-Unis",
+            "Le Royaume-Uni"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel est le plus haut sommet des Alpes ?",
+          "reponse": "Le mont Blanc"
+        },
+        {
+          "question": "De quel pays Lisbonne est-elle la capitale ?",
+          "reponse": "Le Portugal"
+        },
+        {
+          "question": "Quel détroit sépare l'Espagne du Maroc ?",
+          "reponse": "Le détroit de Gibraltar"
+        },
+        {
+          "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+          "reponse": "Wellington"
+        },
+        {
+          "question": "Quels sont les deux pays d'Amérique du Sud sans accès à la mer ?",
+          "reponse": "La Bolivie et le Paraguay"
+        }
+      ]
+    },
+    {
+      "nom": "Histoire de France",
+      "manche1": [
+        {
+          "question": "En quelle année a eu lieu la prise de la Bastille ?",
+          "reponse": "1789"
+        },
+        {
+          "question": "Quel empereur est mort en exil sur l'île de Sainte-Hélène ?",
+          "reponse": "Napoléon Ier"
+        },
+        {
+          "question": "Quel roi était surnommé le Roi-Soleil ?",
+          "reponse": "Louis XIV"
+        },
+        {
+          "question": "Qui a été le premier président de la Ve République ?",
+          "reponse": "Charles de Gaulle"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Les Françaises ont voté pour la première fois en 1945",
+            "Marie-Antoinette est morte en exil en Autriche",
+            "Le Concorde a volé pour la première fois en 1999"
+          ],
+          "vraie": "A",
+          "explication": "Marie-Antoinette a été guillotinée à Paris en 1793, et le Concorde a volé pour la première fois en 1969."
+        },
+        {
+          "affirmations": [
+            "La Ve République a été fondée en 1958",
+            "La Révolution française a commencé au XVIe siècle",
+            "La peine de mort a été abolie en France en 1905"
+          ],
+          "vraie": "A",
+          "explication": "La Révolution commence à la fin du XVIIIe siècle, et la peine de mort a été abolie en 1981."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel ministre de la Justice a porté l'abolition de la peine de mort ?",
+          "reponses": [
+            "Robert Badinter",
+            "Pierre Mauroy",
+            "Jack Lang",
+            "Michel Rocard"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel traité a mis fin à la Première Guerre mondiale avec l'Allemagne ?",
+          "reponses": [
+            "Le traité de Versailles",
+            "Le traité de Rome",
+            "Le traité de Maastricht",
+            "Le traité de Francfort"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel roi a été guillotiné en 1793 ?",
+          "reponse": "Louis XVI"
+        },
+        {
+          "question": "Quelle ministre a porté la loi autorisant l'IVG en 1975 ?",
+          "reponse": "Simone Veil"
+        },
+        {
+          "question": "Qui a composé La Marseillaise ?",
+          "reponse": "Claude Joseph Rouget de Lisle"
+        },
+        {
+          "question": "Quel roi a signé l'édit de Nantes en 1598 ?",
+          "reponse": "Henri IV"
+        },
+        {
+          "question": "En quelle année l'esclavage a-t-il été définitivement aboli en France ? À 5 ans près.",
+          "reponse": "1848 (bonne réponse de 1843 à 1853)"
+        }
+      ]
+    },
+    {
+      "nom": "Moyen Âge",
+      "manche1": [
+        {
+          "question": "Quel roi des Francs a été couronné empereur en l'an 800 ?",
+          "reponse": "Charlemagne"
+        },
+        {
+          "question": "Quelle jeune femme a délivré Orléans assiégée en 1429 ?",
+          "reponse": "Jeanne d'Arc"
+        },
+        {
+          "question": "Combien de temps a réellement duré la guerre de Cent Ans ?",
+          "reponse": "116 ans (de 1337 à 1453)"
+        },
+        {
+          "question": "En quelle année Guillaume le Conquérant a-t-il remporté la bataille d'Hastings ?",
+          "reponse": "1066"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Les chevaliers juraient fidélité à un seigneur",
+            "Les Vikings portaient des casques à cornes",
+            "Le Moyen Âge a duré environ un siècle"
+          ],
+          "vraie": "A",
+          "explication": "Les casques à cornes sont une invention du XIXe siècle, et le Moyen Âge a duré environ mille ans."
+        },
+        {
+          "affirmations": [
+            "La peste noire a tué une grande partie des Européens au XIVe siècle",
+            "Les châteaux forts ont été construits uniquement en bois jusqu'en 1500",
+            "Richard Cœur de Lion était roi de France"
+          ],
+          "vraie": "A",
+          "explication": "Les châteaux en pierre apparaissent dès le XIe siècle, et Richard Cœur de Lion était roi d'Angleterre."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Comment s'appelle l'impôt versé à l'Église, d'environ un dixième des récoltes ?",
+          "reponses": [
+            "La dîme",
+            "La gabelle",
+            "La taille",
+            "Le cens"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel événement de 1492 est souvent retenu pour marquer la fin du Moyen Âge ?",
+          "reponses": [
+            "L'arrivée de Christophe Colomb en Amérique",
+            "La prise de Constantinople",
+            "L'invention de l'imprimerie",
+            "La mort de Charlemagne"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Comment appelait-on les expéditions militaires chrétiennes vers Jérusalem ?",
+          "reponse": "Les croisades"
+        },
+        {
+          "question": "Quel dispositif se relève pour fermer l'entrée d'un château au-dessus des douves ?",
+          "reponse": "Le pont-levis"
+        },
+        {
+          "question": "Quelle célèbre broderie raconte la conquête de l'Angleterre par les Normands ?",
+          "reponse": "La tapisserie de Bayeux"
+        },
+        {
+          "question": "Quel roi de France a été canonisé sous le nom de Saint Louis ?",
+          "reponse": "Louis IX"
+        },
+        {
+          "question": "Quel ordre de moines-soldats a été persécuté par Philippe le Bel à partir de 1307 ?",
+          "reponse": "Les Templiers (l'ordre du Temple)"
+        }
+      ]
+    },
+    {
+      "nom": "Mythologie",
+      "manche1": [
+        {
+          "question": "Qui est le roi des dieux grecs ?",
+          "reponse": "Zeus"
+        },
+        {
+          "question": "Quel héros grec a accompli douze travaux ?",
+          "reponse": "Héraclès (Hercule)"
+        },
+        {
+          "question": "Quel dieu nordique borgne règne sur Asgard ?",
+          "reponse": "Odin"
+        },
+        {
+          "question": "Quelle créature a des serpents à la place des cheveux ?",
+          "reponse": "Méduse"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Poséidon est le dieu des mers",
+            "Aphrodite est la déesse de la guerre",
+            "Hadès règne sur l'Olympe"
+          ],
+          "vraie": "A",
+          "explication": "Aphrodite est la déesse de l'amour, et Hadès règne sur les Enfers."
+        },
+        {
+          "affirmations": [
+            "Le cheval de Troie a permis aux Grecs d'entrer dans la ville",
+            "Achille était invulnérable au talon",
+            "Pégase est un cheval à trois têtes"
+          ],
+          "vraie": "A",
+          "explication": "Le talon était le seul point faible d'Achille, et Pégase est un cheval ailé."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel est le nom romain d'Héphaïstos, dieu de la forge ?",
+          "reponses": [
+            "Vulcain",
+            "Mercure",
+            "Apollon",
+            "Janus"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel dieu égyptien à tête de chacal accompagne les morts ?",
+          "reponses": [
+            "Anubis",
+            "Horus",
+            "Râ",
+            "Osiris"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel héros a tué le Minotaure dans le labyrinthe ?",
+          "reponse": "Thésée"
+        },
+        {
+          "question": "Quelle déesse de la sagesse a donné son nom à la capitale grecque ?",
+          "reponse": "Athéna"
+        },
+        {
+          "question": "Quel titan est condamné à porter la voûte céleste ?",
+          "reponse": "Atlas"
+        },
+        {
+          "question": "Quel musicien descend aux Enfers pour ramener Eurydice ?",
+          "reponse": "Orphée"
+        },
+        {
+          "question": "Comment s'appelle le fleuve de l'oubli dans les Enfers grecs ?",
+          "reponse": "Le Léthé"
+        }
+      ]
+    },
+    {
+      "nom": "Fantasy",
+      "manche1": [
+        {
+          "question": "Qui a écrit Le Seigneur des anneaux ?",
+          "reponse": "J. R. R. Tolkien"
+        },
+        {
+          "question": "Quel hobbit doit détruire l'Anneau unique ?",
+          "reponse": "Frodon Sacquet"
+        },
+        {
+          "question": "Quel magicien guide la Communauté de l'anneau ?",
+          "reponse": "Gandalf"
+        },
+        {
+          "question": "Dans quel monde imaginaire des enfants entrent-ils par une armoire, chez C. S. Lewis ?",
+          "reponse": "Narnia"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le Hobbit a été publié avant Le Seigneur des anneaux",
+            "The Witcher est une saga de romans française",
+            "Sauron est un elfe"
+          ],
+          "vraie": "A",
+          "explication": "The Witcher est l'œuvre du Polonais Andrzej Sapkowski, et Sauron n'est pas un elfe mais un esprit ancien, un Maia."
+        },
+        {
+          "affirmations": [
+            "Les films Le Seigneur des anneaux ont été tournés en Nouvelle-Zélande",
+            "Aragorn est un nain",
+            "Eragon chevauche un griffon"
+          ],
+          "vraie": "A",
+          "explication": "Aragorn est un homme, héritier des rois, et Eragon chevauche un dragon."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Comment s'appelle la dragonne d'Eragon ?",
+          "reponses": [
+            "Saphira",
+            "Falkor",
+            "Drogon",
+            "Krokmou"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Qui a réalisé la trilogie Le Seigneur des anneaux au cinéma ?",
+          "reponses": [
+            "Peter Jackson",
+            "Steven Spielberg",
+            "Guillermo del Toro",
+            "Sam Raimi"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quelle créature obsédée par son « précieux » s'appelait autrefois Sméagol ?",
+          "reponse": "Gollum"
+        },
+        {
+          "question": "Quel dragon garde le trésor de la Montagne solitaire dans Le Hobbit ?",
+          "reponse": "Smaug"
+        },
+        {
+          "question": "Comment s'appelle le sorceleur héros de The Witcher ?",
+          "reponse": "Geralt de Riv"
+        },
+        {
+          "question": "Comment s'appelle l'épée reforgée d'Aragorn ?",
+          "reponse": "Andúril"
+        },
+        {
+          "question": "Comment s'appelle la langue haute des elfes dans Le Seigneur des anneaux ?",
+          "reponse": "Le quenya (le sindarin est aussi accepté)"
+        }
+      ]
+    },
+    {
+      "nom": "Science-fiction",
+      "manche1": [
+        {
+          "question": "Qui a écrit Vingt Mille Lieues sous les mers ?",
+          "reponse": "Jules Verne"
+        },
+        {
+          "question": "Dans quel film Neo découvre-t-il que le monde est une simulation ?",
+          "reponse": "Matrix"
+        },
+        {
+          "question": "Quel cyborg venu du futur est joué par Arnold Schwarzenegger dans un film de 1984 ?",
+          "reponse": "Terminator"
+        },
+        {
+          "question": "Quelle saga suit l'équipage du vaisseau Enterprise ?",
+          "reponse": "Star Trek"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Isaac Asimov a formulé les trois lois de la robotique",
+            "Blade Runner se déroule en 1920",
+            "Dune a été écrit par Stephen King"
+          ],
+          "vraie": "A",
+          "explication": "Blade Runner se déroule en 2019, un futur imaginé en 1982, et Dune est l'œuvre de Frank Herbert."
+        },
+        {
+          "affirmations": [
+            "H. G. Wells a écrit La Guerre des mondes",
+            "Alien se déroule au fond de l'océan",
+            "E.T. vient de la planète Mars"
+          ],
+          "vraie": "A",
+          "explication": "Alien se déroule dans l'espace, à bord d'un vaisseau, et la planète d'origine d'E.T. n'est jamais nommée."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Sur quelle planète désertique se déroule Dune ?",
+          "reponses": [
+            "Arrakis",
+            "Vulcain",
+            "Pandora",
+            "Solaris"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Qui a réalisé Avatar en 2009 ?",
+          "reponses": [
+            "James Cameron",
+            "Steven Spielberg",
+            "Christopher Nolan",
+            "Denis Villeneuve"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel film de Christopher Nolan envoie des astronautes à travers un trou de ver ?",
+          "reponse": "Interstellar"
+        },
+        {
+          "question": "Qui a écrit le roman 1984 ?",
+          "reponse": "George Orwell"
+        },
+        {
+          "question": "Comment s'appelle l'ordinateur de bord de 2001, l'Odyssée de l'espace ?",
+          "reponse": "HAL 9000"
+        },
+        {
+          "question": "Qui a réalisé Alien, le huitième passager ?",
+          "reponse": "Ridley Scott"
+        },
+        {
+          "question": "Quel écrivain français a écrit La Planète des singes ?",
+          "reponse": "Pierre Boulle"
+        }
+      ]
+    },
+    {
+      "nom": "Art et peinture",
+      "manche1": [
+        {
+          "question": "Qui a peint La Joconde ?",
+          "reponse": "Léonard de Vinci"
+        },
+        {
+          "question": "Quel peintre néerlandais a peint La Nuit étoilée ?",
+          "reponse": "Vincent van Gogh"
+        },
+        {
+          "question": "Quel peintre espagnol a cofondé le cubisme ?",
+          "reponse": "Pablo Picasso"
+        },
+        {
+          "question": "Quel peintre a représenté les nymphéas de son jardin de Giverny ?",
+          "reponse": "Claude Monet"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Salvador Dalí est un peintre surréaliste",
+            "Le Radeau de la Méduse est une sculpture",
+            "Le pointillisme utilise de grands aplats de couleur"
+          ],
+          "vraie": "A",
+          "explication": "Le Radeau de la Méduse est un tableau de Géricault, et le pointillisme juxtapose de petites touches de couleur."
+        },
+        {
+          "affirmations": [
+            "Le Cri a été peint par Edvard Munch",
+            "La Vénus de Milo a été peinte par Botticelli",
+            "L'impressionnisme est né en Italie"
+          ],
+          "vraie": "A",
+          "explication": "La Vénus de Milo est une statue grecque antique, et l'impressionnisme est né en France."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quel sculpteur a créé Le Penseur ?",
+          "reponses": [
+            "Auguste Rodin",
+            "Camille Claudel",
+            "Aristide Maillol",
+            "Antoine Bourdelle"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel artiste a peint le plafond de la chapelle Sixtine ?",
+          "reponses": [
+            "Michel-Ange",
+            "Raphaël",
+            "Le Caravage",
+            "Botticelli"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel artiste du pop art a représenté des boîtes de soupe Campbell ?",
+          "reponse": "Andy Warhol"
+        },
+        {
+          "question": "Qui a peint La Liberté guidant le peuple ?",
+          "reponse": "Eugène Delacroix"
+        },
+        {
+          "question": "Quel peintre surréaliste belge a écrit « Ceci n'est pas une pipe » sous une pipe ?",
+          "reponse": "René Magritte"
+        },
+        {
+          "question": "Quel peintre a réalisé La Jeune Fille à la perle ?",
+          "reponse": "Johannes Vermeer"
+        },
+        {
+          "question": "Quel peintre a réalisé le triptyque du Jardin des délices, vers 1500 ?",
+          "reponse": "Jérôme Bosch"
+        }
+      ]
+    },
+    {
+      "nom": "Littérature",
+      "manche1": [
+        {
+          "question": "Qui a écrit Les Misérables ?",
+          "reponse": "Victor Hugo"
+        },
+        {
+          "question": "Qui a écrit Le Petit Prince ?",
+          "reponse": "Antoine de Saint-Exupéry"
+        },
+        {
+          "question": "Quel dramaturge anglais a écrit Roméo et Juliette ?",
+          "reponse": "William Shakespeare"
+        },
+        {
+          "question": "Quel jeune Gascon rejoint Athos, Porthos et Aramis ?",
+          "reponse": "D'Artagnan"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Molière s'appelait en réalité Jean-Baptiste Poquelin",
+            "Guy de Maupassant a écrit Madame Bovary",
+            "Les Fleurs du mal sont un roman"
+          ],
+          "vraie": "A",
+          "explication": "Madame Bovary est de Gustave Flaubert, et Les Fleurs du mal sont un recueil de poèmes de Baudelaire."
+        },
+        {
+          "affirmations": [
+            "Marguerite Duras a écrit L'Amant",
+            "Honoré de Balzac a écrit Le Comte de Monte-Cristo",
+            "Cyrano de Bergerac est un roman policier"
+          ],
+          "vraie": "A",
+          "explication": "Le Comte de Monte-Cristo est d'Alexandre Dumas, et Cyrano de Bergerac est une pièce de théâtre d'Edmond Rostand."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quelle romancière a créé le détective Hercule Poirot ?",
+          "reponses": [
+            "Agatha Christie",
+            "Mary Higgins Clark",
+            "P. D. James",
+            "Fred Vargas"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Qui a écrit L'Étranger ?",
+          "reponses": [
+            "Albert Camus",
+            "Jean-Paul Sartre",
+            "André Malraux",
+            "Marcel Pagnol"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quel gentleman cambrioleur a été créé par Maurice Leblanc ?",
+          "reponse": "Arsène Lupin"
+        },
+        {
+          "question": "Qui a écrit Germinal ?",
+          "reponse": "Émile Zola"
+        },
+        {
+          "question": "Quel poète a écrit Le Dormeur du val ?",
+          "reponse": "Arthur Rimbaud"
+        },
+        {
+          "question": "Quelle œuvre de Marcel Proust compte sept tomes ?",
+          "reponse": "À la recherche du temps perdu"
+        },
+        {
+          "question": "Qui a écrit Voyage au bout de la nuit ?",
+          "reponse": "Louis-Ferdinand Céline"
+        }
+      ]
+    },
+    {
+      "nom": "Inventions et technologie",
+      "manche1": [
+        {
+          "question": "Quel inventeur américain a mis au point une ampoule électrique durable ?",
+          "reponse": "Thomas Edison"
+        },
+        {
+          "question": "Quel chimiste suédois a inventé la dynamite ?",
+          "reponse": "Alfred Nobel"
+        },
+        {
+          "question": "Quel inventeur a déposé le brevet du téléphone en 1876 ?",
+          "reponse": "Alexander Graham Bell"
+        },
+        {
+          "question": "Quels frères ont réalisé le premier vol motorisé contrôlé en 1903 ?",
+          "reponse": "Les frères Wright"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Gutenberg a mis au point l'imprimerie à caractères mobiles en Europe",
+            "Internet a été inventé en 2005",
+            "Le premier smartphone date de 1950"
+          ],
+          "vraie": "A",
+          "explication": "Internet naît dans les années 1960-1970, et les premiers smartphones apparaissent dans les années 1990."
+        },
+        {
+          "affirmations": [
+            "Le Web a été inventé au CERN",
+            "La machine à vapeur a été inventée au XXe siècle",
+            "Le GPS a été inventé en France"
+          ],
+          "vraie": "A",
+          "explication": "La machine à vapeur date du XVIIIe siècle, et le GPS a été développé par l'armée américaine."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Qui a fondé Facebook ?",
+          "reponses": [
+            "Mark Zuckerberg",
+            "Steve Wozniak",
+            "Elon Musk",
+            "Jeff Bezos"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quel Français a inventé un système d'écriture en relief pour les aveugles ?",
+          "reponses": [
+            "Louis Braille",
+            "Valentin Haüy",
+            "Blaise Pascal",
+            "Denis Papin"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quelle machine à calculer Blaise Pascal a-t-il inventée en 1642 ?",
+          "reponse": "La Pascaline"
+        },
+        {
+          "question": "Qui a fondé Microsoft avec Paul Allen ?",
+          "reponse": "Bill Gates"
+        },
+        {
+          "question": "Quel inventeur a donné son nom à une marque de voitures électriques ?",
+          "reponse": "Nikola Tesla"
+        },
+        {
+          "question": "Quel physicien italien a inventé la pile électrique en 1800 ?",
+          "reponse": "Alessandro Volta"
+        },
+        {
+          "question": "Comment s'appelait la machine d'Alan Turing qui a aidé à casser le code Enigma ?",
+          "reponse": "La Bombe"
+        }
+      ]
+    },
+    {
+      "nom": "Marques et logos",
+      "manche1": [
+        {
+          "question": "Quelle marque de sport a pour logo une virgule ?",
+          "reponse": "Nike"
+        },
+        {
+          "question": "Quelle marque a pour logo une pomme croquée ?",
+          "reponse": "Apple"
+        },
+        {
+          "question": "Quelle marque automobile française a pour logo un lion ?",
+          "reponse": "Peugeot"
+        },
+        {
+          "question": "Quelle chaîne de restauration rapide a pour logo un grand M jaune ?",
+          "reponse": "McDonald's"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "Le logo de Lacoste est un crocodile",
+            "Le logo de Lamborghini est un cheval",
+            "Le logo de Puma est un lion"
+          ],
+          "vraie": "A",
+          "explication": "Le logo de Lamborghini est un taureau, et celui de Puma est… un puma."
+        },
+        {
+          "affirmations": [
+            "Le bonhomme de Michelin s'appelle Bibendum",
+            "Le logo de Twitter était un aigle",
+            "Le logo de Shell est une étoile"
+          ],
+          "vraie": "A",
+          "explication": "Le logo de Twitter était un oiseau bleu, et celui de Shell est un coquillage."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Quelle marque de chocolat a pour mascotte une vache violette ?",
+          "reponses": [
+            "Milka",
+            "Côte d'Or",
+            "Lindt",
+            "Kinder"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quelle chaîne de cafés a pour logo une sirène verte ?",
+          "reponses": [
+            "Starbucks",
+            "Costa Coffee",
+            "Nespresso",
+            "Tim Hortons"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Quelle marque de sport a pour logo trois bandes ?",
+          "reponse": "Adidas"
+        },
+        {
+          "question": "Quel constructeur automobile allemand a pour logo quatre anneaux ?",
+          "reponse": "Audi"
+        },
+        {
+          "question": "Quelle maison de luxe a pour logo deux C entrelacés ?",
+          "reponse": "Chanel"
+        },
+        {
+          "question": "Quel constructeur automobile français a pour logo un losange ?",
+          "reponse": "Renault"
+        },
+        {
+          "question": "Quelle marque automobile japonaise a pour logo les étoiles de l'amas des Pléiades ?",
+          "reponse": "Subaru"
+        }
+      ]
+    },
+    {
+      "nom": "Monuments du monde",
+      "manche1": [
+        {
+          "question": "Dans quelle ville se trouve le Colisée ?",
+          "reponse": "Rome"
+        },
+        {
+          "question": "Dans quel pays se trouve le Machu Picchu ?",
+          "reponse": "Au Pérou"
+        },
+        {
+          "question": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+          "reponse": "La tour Eiffel"
+        },
+        {
+          "question": "Dans quelle ville se dresse la statue du Christ Rédempteur ?",
+          "reponse": "Rio de Janeiro"
+        }
+      ],
+      "manche2": [
+        {
+          "affirmations": [
+            "La Grande Muraille de Chine mesure plusieurs milliers de kilomètres",
+            "Le Taj Mahal est un palais royal",
+            "Big Ben est le nom de la tour de l'horloge"
+          ],
+          "vraie": "A",
+          "explication": "Le Taj Mahal est un mausolée, et Big Ben est le nom de la grosse cloche, pas de la tour."
+        },
+        {
+          "affirmations": [
+            "La statue de la Liberté a été offerte par la France aux États-Unis",
+            "Les pyramides de Gizeh se trouvent au Mexique",
+            "L'Opéra de Sydney se trouve en Nouvelle-Zélande"
+          ],
+          "vraie": "A",
+          "explication": "Les pyramides de Gizeh sont en Égypte, et l'Opéra de Sydney en Australie."
+        }
+      ],
+      "manche3": [
+        {
+          "question": "Dans quelle ville se trouve la Sagrada Família ?",
+          "reponses": [
+            "Barcelone",
+            "Madrid",
+            "Séville",
+            "Valence"
+          ],
+          "bonne": "A"
+        },
+        {
+          "question": "Quelle cité antique est taillée dans la roche rose, en Jordanie ?",
+          "reponses": [
+            "Pétra",
+            "Palmyre",
+            "Babylone",
+            "Carthage"
+          ],
+          "bonne": "A"
+        }
+      ],
+      "manche4": [
+        {
+          "question": "Dans quelle ville italienne se trouve la célèbre tour penchée ?",
+          "reponse": "Pise"
+        },
+        {
+          "question": "Dans quel pays se trouve le Taj Mahal ?",
+          "reponse": "En Inde"
+        },
+        {
+          "question": "Dans quel pays se trouve le temple d'Angkor Vat ?",
+          "reponse": "Au Cambodge"
+        },
+        {
+          "question": "Quelle forteresse au bord de la Tamise abrite les joyaux de la Couronne britannique ?",
+          "reponse": "La tour de Londres"
+        },
+        {
+          "question": "Quel architecte a conçu la pyramide du Louvre ?",
+          "reponse": "Ieoh Ming Pei"
+        }
+      ]
+    }
+  ],
+  "cultureGenerale": {
+    "nom": "Culture générale",
+    "manche1": [
+      {
+        "question": "Combien de jours compte une année bissextile ?",
+        "reponse": "366"
+      },
+      {
+        "question": "Quelle est la monnaie du Japon ?",
+        "reponse": "Le yen"
+      },
+      {
+        "question": "Combien de cases compte un échiquier ?",
+        "reponse": "64"
+      },
+      {
+        "question": "Comment appelle-t-on un mot qui se lit de la même façon dans les deux sens, comme « kayak » ?",
+        "reponse": "Un palindrome"
+      },
+      {
+        "question": "Combien de cartes compte un jeu classique, sans les jokers ?",
+        "reponse": "52"
+      },
+      {
+        "question": "Quel compositeur autrichien a écrit l'opéra La Flûte enchantée ?",
+        "reponse": "Wolfgang Amadeus Mozart"
+      },
+      {
+        "question": "Combien de couleurs compte traditionnellement l'arc-en-ciel ?",
+        "reponse": "Sept"
+      },
+      {
+        "question": "Que célèbre-t-on en France le 14 juillet ?",
+        "reponse": "La fête nationale"
+      },
+      {
+        "question": "Combien de minutes compte une journée ?",
+        "reponse": "1 440"
+      },
+      {
+        "question": "Quel est le féminin de « canard » ?",
+        "reponse": "La cane"
+      },
+      {
+        "question": "Quel instrument de musique possède généralement 88 touches ?",
+        "reponse": "Le piano"
+      },
+      {
+        "question": "Quel mois de l'année compte le moins de jours ?",
+        "reponse": "Février"
+      },
+      {
+        "question": "Quelle langue parle-t-on principalement au Brésil ?",
+        "reponse": "Le portugais"
+      },
+      {
+        "question": "Combien de côtés a un pentagone ?",
+        "reponse": "Cinq"
+      },
+      {
+        "question": "Comment appelle-t-on la peur des araignées ?",
+        "reponse": "L'arachnophobie"
+      },
+      {
+        "question": "Quelle couleur obtient-on en mélangeant du bleu et du jaune ?",
+        "reponse": "Le vert"
+      },
+      {
+        "question": "Combien de joueurs une équipe de volley-ball aligne-t-elle sur le terrain ?",
+        "reponse": "Six"
+      },
+      {
+        "question": "Quel est le pluriel de « cheval » ?",
+        "reponse": "Des chevaux"
+      },
+      {
+        "question": "Dans quel jeu faut-il aligner quatre pions de sa couleur dans une grille verticale ?",
+        "reponse": "Puissance 4"
+      },
+      {
+        "question": "Quelle fleur est le symbole de la monarchie française ?",
+        "reponse": "La fleur de lys"
+      },
+      {
+        "question": "Quel compositeur allemand, devenu sourd, a écrit la Neuvième Symphonie ?",
+        "reponse": "Ludwig van Beethoven"
+      },
+      {
+        "question": "Comment s'appelle le petit objet caché dans la galette des rois ?",
+        "reponse": "La fève"
+      },
+      {
+        "question": "Combien de zéros compte un million ?",
+        "reponse": "Six"
+      },
+      {
+        "question": "Quel animal est l'un des emblèmes de la France ?",
+        "reponse": "Le coq"
+      },
+      {
+        "question": "Dans quel pays parle-t-on à la fois le néerlandais et le français ?",
+        "reponse": "La Belgique"
+      },
+      {
+        "question": "Combien de lettres compte l'alphabet français ?",
+        "reponse": "26"
+      },
+      {
+        "question": "Quel est le contraire de « généreux » ?",
+        "reponse": "Avare"
+      },
+      {
+        "question": "De quelle couleur est le maillot du leader du Tour de France ?",
+        "reponse": "Jaune"
+      },
+      {
+        "question": "Quel artisan fabrique des meubles en bois de qualité ?",
+        "reponse": "L'ébéniste"
+      },
+      {
+        "question": "Combien de points vaut la lettre Z au Scrabble en français ?",
+        "reponse": "10"
+      },
+      {
+        "question": "Comment appelle-t-on un ensemble de cinq musiciens ?",
+        "reponse": "Un quintette"
+      },
+      {
+        "question": "Quel oiseau noir et blanc a la réputation de voler les objets brillants ?",
+        "reponse": "La pie"
+      },
+      {
+        "question": "Quelle pierre précieuse est rouge ?",
+        "reponse": "Le rubis"
+      },
+      {
+        "question": "Quel est le billet en euros de plus faible valeur ?",
+        "reponse": "Le billet de 5 euros"
+      },
+      {
+        "question": "Comment appelle-t-on un mot qui a le même sens qu'un autre ?",
+        "reponse": "Un synonyme"
+      },
+      {
+        "question": "Quelle est la date de la fête du Travail en France ?",
+        "reponse": "Le 1er mai"
+      }
+    ],
+    "manche2": [
+      {
+        "affirmations": [
+          "Une année bissextile revient en général tous les quatre ans",
+          "Le mois d'avril compte 31 jours",
+          "L'an 2000 n'était pas bissextile"
+        ],
+        "vraie": "A",
+        "explication": "Avril compte 30 jours, et l'an 2000 était bien bissextile."
+      },
+      {
+        "affirmations": [
+          "Le mot « OK » vient de l'anglais américain",
+          "Le mot « sandwich » vient d'un plat italien",
+          "Le mot « robot » vient du japonais"
+        ],
+        "vraie": "A",
+        "explication": "Sandwich vient du comte de Sandwich, un Anglais, et robot vient du tchèque."
+      },
+      {
+        "affirmations": [
+          "Cléopâtre a vécu plus près de notre époque que de la construction de la pyramide de Khéops",
+          "Le Monopoly a été inventé en France",
+          "Les échecs sont nés au Japon"
+        ],
+        "vraie": "A",
+        "explication": "Le Monopoly est américain, et les échecs viennent d'Inde."
+      },
+      {
+        "affirmations": [
+          "La boîte noire d'un avion est orange",
+          "Un chewing-gum avalé reste sept ans dans l'estomac",
+          "Le Père Noël a toujours été représenté en rouge"
+        ],
+        "vraie": "A",
+        "explication": "Un chewing-gum avalé est évacué en quelques jours, et le Père Noël a longtemps été représenté en vert, en bleu ou en brun."
+      },
+      {
+        "affirmations": [
+          "Un pouce mesure environ 2,54 cm",
+          "Un mile mesure un kilomètre",
+          "Un nœud marin vaut 10 km/h"
+        ],
+        "vraie": "A",
+        "explication": "Un mile mesure environ 1,6 km, et un nœud vaut environ 1,85 km/h."
+      },
+      {
+        "affirmations": [
+          "Le français est langue officielle dans une trentaine de pays",
+          "L'anglais est la langue maternelle la plus répandue au monde",
+          "L'espéranto est une langue officielle de la Suisse"
+        ],
+        "vraie": "A",
+        "explication": "La langue maternelle la plus répandue est le chinois mandarin, et la Suisse a pour langues officielles l'allemand, le français, l'italien et le romanche."
+      },
+      {
+        "affirmations": [
+          "Do est la première note de la gamme de do majeur",
+          "Une portée musicale compte sept lignes",
+          "Le violon a six cordes"
+        ],
+        "vraie": "A",
+        "explication": "Une portée compte cinq lignes, et le violon a quatre cordes."
+      },
+      {
+        "affirmations": [
+          "Un octogone a huit côtés",
+          "Un triangle peut avoir deux angles droits",
+          "Le nombre pi vaut exactement 3,14"
+        ],
+        "vraie": "A",
+        "explication": "Un triangle ne peut avoir qu'un seul angle droit, et pi est un nombre infini qui commence par 3,14159."
+      },
+      {
+        "affirmations": [
+          "Le rugby à XV se joue avec un ballon ovale",
+          "Le golf se joue avec un ballon",
+          "Le curling se pratique sur gazon"
+        ],
+        "vraie": "A",
+        "explication": "Le golf se joue avec une balle, et le curling se pratique sur la glace."
+      },
+      {
+        "affirmations": [
+          "Le lundi doit son nom à la Lune",
+          "Le samedi doit son nom au Soleil",
+          "Le mardi doit son nom à Vénus"
+        ],
+        "vraie": "A",
+        "explication": "Samedi vient du sabbat, et mardi est le jour du dieu Mars."
+      },
+      {
+        "affirmations": [
+          "Le Tour de France a été créé en 1903",
+          "Le maillot à pois récompense le meilleur sprinteur",
+          "Le Tour de France se termine toujours à Nice"
+        ],
+        "vraie": "A",
+        "explication": "Le maillot à pois récompense le meilleur grimpeur, et l'arrivée se fait traditionnellement à Paris."
+      },
+      {
+        "affirmations": [
+          "Les Français consomment en moyenne plus de 20 kg de fromage par an",
+          "Le champagne peut être produit partout en France",
+          "La baguette a été inscrite au patrimoine de l'UNESCO en 1950"
+        ],
+        "vraie": "A",
+        "explication": "Le champagne ne peut venir que de la région Champagne, et la baguette a été inscrite en 2022."
+      },
+      {
+        "affirmations": [
+          "Le 1er avril, on accroche des poissons en papier dans le dos",
+          "À Noël, les Anglais mangent traditionnellement de la galette des rois",
+          "Halloween est une fête d'origine japonaise"
+        ],
+        "vraie": "A",
+        "explication": "Les Anglais mangent du pudding à Noël, et Halloween vient d'une fête celtique d'Irlande."
+      },
+      {
+        "affirmations": [
+          "Un kilo de plumes pèse autant qu'un kilo de plomb",
+          "L'eau de mer gèle exactement à 0 °C",
+          "Les ours polaires ont la peau blanche"
+        ],
+        "vraie": "A",
+        "explication": "L'eau de mer gèle vers -2 °C à cause du sel, et la peau des ours polaires est noire sous leur fourrure."
+      },
+      {
+        "affirmations": [
+          "Le président de la République française réside au palais de l'Élysée",
+          "Le Sénat siège au palais Bourbon",
+          "Les députés sont élus pour dix ans"
+        ],
+        "vraie": "A",
+        "explication": "Le Sénat siège au palais du Luxembourg (le palais Bourbon accueille l'Assemblée nationale), et les députés sont élus pour cinq ans."
+      },
+      {
+        "affirmations": [
+          "Le Scrabble a été inventé aux États-Unis",
+          "Le tarot se joue avec 32 cartes",
+          "Le jeu de dames se joue avec des pions de quatre couleurs"
+        ],
+        "vraie": "A",
+        "explication": "Le tarot se joue avec 78 cartes, et les dames avec des pions de deux couleurs."
+      }
+    ],
+    "manche3": [
+      {
+        "question": "Qu'est-ce qu'un nycthémère ?",
+        "reponses": [
+          "Une durée de 24 heures",
+          "Un insecte nocturne",
+          "Une maladie du sommeil",
+          "Un poème de huit vers"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Que signifie l'expression « poser un lapin » ?",
+        "reponses": [
+          "Ne pas venir à un rendez-vous",
+          "Faire une farce",
+          "Partir sans payer",
+          "Dire un mensonge"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Qu'est-ce qu'un sommelier ?",
+        "reponses": [
+          "Un spécialiste du vin",
+          "Un chef pâtissier",
+          "Un maître d'hôtel",
+          "Un boulanger"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Combien de pions chaque joueur possède-t-il au début d'une partie d'échecs ?",
+        "reponses": [
+          "Huit",
+          "Six",
+          "Dix",
+          "Seize"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Quel instrument mesure la pression atmosphérique ?",
+        "reponses": [
+          "Le baromètre",
+          "Le thermomètre",
+          "L'anémomètre",
+          "L'hygromètre"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Combien de joueurs une équipe de handball aligne-t-elle sur le terrain ?",
+        "reponses": [
+          "Sept",
+          "Six",
+          "Cinq",
+          "Onze"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Qu'est-ce qu'un pangramme ?",
+        "reponses": [
+          "Une phrase qui contient toutes les lettres de l'alphabet",
+          "Un poème de cent vers",
+          "Un mot inventé",
+          "Une figure géométrique"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Laquelle de ces unités est la plus petite ?",
+        "reponses": [
+          "Le micromètre",
+          "Le millimètre",
+          "Le centimètre",
+          "Le décimètre"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Comment appelle-t-on un collectionneur de timbres ?",
+        "reponses": [
+          "Un philatéliste",
+          "Un numismate",
+          "Un cruciverbiste",
+          "Un bibliophile"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Combien d'heures compte une semaine ?",
+        "reponses": [
+          "168",
+          "144",
+          "172",
+          "120"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Que signifie l'expression « avoir un poil dans la main » ?",
+        "reponses": [
+          "Être paresseux",
+          "Être très poilu",
+          "Être avare",
+          "Être maladroit"
+        ],
+        "bonne": "A"
+      },
+      {
+        "question": "Qu'est-ce qu'un néologisme ?",
+        "reponses": [
+          "Un mot nouvellement créé",
+          "Un mot très ancien",
+          "Un mot emprunté à l'anglais",
+          "Un mot mal orthographié"
+        ],
+        "bonne": "A"
+      }
+    ],
+    "manche4": [
+      {
+        "question": "Combien de cases compte une grille de sudoku classique ?",
+        "reponse": "81"
+      },
+      {
+        "question": "Quel compositeur italien a écrit Les Quatre Saisons ?",
+        "reponse": "Antonio Vivaldi"
+      },
+      {
+        "question": "Quelle est la plus haute distinction honorifique française ?",
+        "reponse": "La Légion d'honneur"
+      },
+      {
+        "question": "Comment appelle-t-on un mot formé avec les lettres d'un autre, comme « chien » et « niche » ?",
+        "reponse": "Une anagramme"
+      },
+      {
+        "question": "Comment s'appelle l'alphabet où A se dit Alpha et B se dit Bravo ?",
+        "reponse": "L'alphabet de l'OTAN (alphabet radio international)"
+      }
+    ]
+  }
+}
